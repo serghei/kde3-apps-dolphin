@@ -1,0 +1,17 @@
+[Desktop Entry]
+ServiceTypes=application/x-executable,application/x-shellscript,application/x-python,application/x-perl
+Actions=runassu
+
+[Desktop Action runassu]
+Name=Run as Root
+Name[de]=Als root ausführen
+Name[cs]=Spustit jako root
+Name[sk]=Spustiť ako root
+Name[hu]=Futtatás rootként
+Name[fr]=Lancer en root
+Name[el]=Εκτέλεση ως Υπερχρήστη�Name[es]=Ejecutar como Root
+Name[pt_br]=Executar como Root
+Name[it]=Esegui come Root
+Name[pl]=Uruchom jako root
+Icon=kfm
+Exec=kdesu -c

@@ -1,0 +1,113 @@
+0.9
+
+- Renamed to D3lphin (Marcel Juhnke maintains this from now on - send bug reports to him).
+- Integrated a second sidebar on the right.
+- Integrated Folder-like navigation for .tar- and .zip-files (Filip Brcic).
+- Fixed: If you select the first sub-folder in a folder in the breadcrumb view, the view jumps not into this directory.
+- Many thanks to Peter Penz and sorry for not integrating many new things in D3lphin.
+
+0.8.2
+
+- Updated German translation (Jannick Kuhr)
+- Updated Polish translation (Piotr Malinski)
+
+0.8.1
+
+- Split view divides the window in two equal sections.
+
+- Updated the documentation how to make Dolphin the default file manager (Michael Austin).
+
+- Updated Estonian translation (Ain Vagula).
+
+0.8.0
+
+- Provide a sidebar for accessing bookmarks and the history. ATTENTION: old bookmarks will get lost by the update, as the Dolphin proprietary format has been exchanged by the XBEL standard (http://pyxml.sourceforge.net/topics/xbel/).
+
+- Update of documentation including screenshots (Michael Austin).
+
+- Provide a drop down menu in the navigation bar for accessing directories (patch submitted by Aaron J. Seigo).
+
+- Remember view properties also for folders having no write access (e. g. root) (patch submitted by Aaron J. Seigo)
+
+- Provide filter bar (patch submitted by Gregor Kalisnik)
+
+- Don't differ between fixed and editable bookmarks anymore. Provide sensible defaults but let the user decide.
+
+- Don't show the volume space widget if the volume space is not available.
+
+- Minor cosmetic fixes in the navigation bar and volume space information.
+
+0.7.0
+
+- Renaming of a variable number of selected items in one step is supported now.
+
+- Translations for Estonian, French, Hebrew and Polish (thanks to Ain Vagula, Stephane Lesimple, Patrice Tremblay, Itai Alter and Piotr Maliński) 
+
+- When dragging a file A above file B, file A is copied into the directory of file B instead of replacing file B itself (Bug 1559793).
+
+- Use larger icons in bookmarks menu applied, this allows a faster access (patch submitted by Patrice Tremblay)
+
+- The default bookmark for 'System' has been replaced by 'Storage Media', 'Network' and 'Trash' (patch submitted by Patrice Tremblay)
+
+- General Settings page: use "Home URL" instead of "Home" as this prevents some translation issues for French (patch submitted by Patrice Tremblay)
+
+- Minor fixes for the disk space information (patch submitted by Patrice Tremblay).
+
+- Replaced "Edit Location" icon (submitted by Patrice Tremblay).
+
+- Refresh the icon positions when a file has been deleted (Bug 1548249)
+
+- New service menu 'Open as Root' for directories.
+
+- Fixed possible wrong selection in Details View (Bug 1547516)
+
+
+0.6.2
+- The status bar shows the available size of the current mount point.
+- Added sidebar widgets (pre alpha stage)
+- Added support for KDE session management (Feature Request 1539965)
+- The sorting type and order is remembered for each directory.
+- When selecting files the amount of size is shown in the statusbar (Bug 1537554).
+- Position of scrollbars is remembered also if the scroll wheel is used (Bug 1537252).
+- The content of the 'Size' column in the details mode is right aligned (Bug 1539685).
+- When entering an URL, then ~ is replaced by the users home directory (Bug 1537539).
+- It's possible to specify default modes for 'Split view' and 'Editable navigation bar' for startup.
+- Fixed wrong preview position for some MIME types.
+- Improved error messages.
+
+0.6.1
+- Several fixes for service menus: services like 'mount', 'unmount' and 'eject' are available
+- Allow to bookmark the current folder with the context menu (thanks to Cvetoslav Ludmiloff).
+- View mode 'Details': it's assured that the content of the columns and header match together when turning off columns.
+- Respect alternate color setting from KDE in the view mode 'Details'.
+- Additional shortcuts for keyboards (thanks to Anatolie Cernii).
+
+0.6.0
+- Added support for Console, KFind and file comparing (Kompare).
+- The sorting can be adjusted for each view mode by name, size or date.
+- Zoom support for all view modes.
+- Path in title is updated when changing between split views.
+- Minor service menus fixes.
+
+0.5.2
+
+- Fixed issue that moving, copying and renaming of files on non local directories failed under certain circumstances.
+- The previews are not positioned in a wrong manner for specific MIME types anymore.
+- Creating files on non local directories works.
+- Don't clear selection if the focus is changed on a split view.
+- The view mode 'Icons' strictly refuses to generate any kind of preview.
+- Pressing 'Escape' in the 'Edit Location' mode of the navigation bar switches to the 'Browse' mode.
+- View properties dialog: don't ask for confirmation, if no change  has been done by the user.
+- File information is shown in statusbar when the mouse pointer is above an item.
+- Spanish translation (thanks to Nestor Diaz).
+
+0.5.1
+
+- Command line options are supported.
+- Added menu entries and shortcuts for switching the navigation bar between the modes 'Edit Location (Ctrl+L)' and 'Browse (Ctrl+B)'.
+- If the view is split and the Dolphin settings are modified, the width of the split view is not changed to zero anymore.
+- Patches for gcc-2.95 (thanks to Leo Savernik).
+
+0.5.0
+
+- Initial release.

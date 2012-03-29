@@ -1,0 +1,4 @@
+Code duplication:
+-----------------
+
+BookmarksSidebarPage::adjustSelection() uses same code as BookmarkSelector::updateSelection(). Suggestion: provide generic class in combination with the URL Navigator for this.

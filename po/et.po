@@ -1,0 +1,732 @@
+# translation of et.po to Estonian
+# This file is put in the public domain.
+#
+# Ain Vagula <avagula@gmail.com>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: et\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-28 22:10+0100\n"
+"PO-Revision-Date: 2006-12-23 23:17+0200\n"
+"Last-Translator: Ain Vagula <avagula@gmail.com>\n"
+"Language-Team: Estonian <et@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Ain Vagula"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "avagula@gmail.com"
+
+#: bookmarkssettingspage.cpp:57
+msgid "Icon"
+msgstr "Ikoon"
+
+#: bookmarkssettingspage.cpp:58
+msgid "Name"
+msgstr "Nimi"
+
+#: bookmarkssettingspage.cpp:59
+msgid "Location"
+msgstr "Asukoht"
+
+#: bookmarkssettingspage.cpp:76
+msgid "Add..."
+msgstr "Lisa..."
+
+#: bookmarkssettingspage.cpp:81 bookmarkssidebarpage.cpp:114
+msgid "Edit..."
+msgstr "Redigeeri..."
+
+#: bookmarkssettingspage.cpp:91
+msgid "Move Up"
+msgstr "Liiguta üles"
+
+#: bookmarkssettingspage.cpp:96
+msgid "Move Down"
+msgstr "Liiguta alla"
+
+#: bookmarkssettingspage.cpp:196 bookmarkssidebarpage.cpp:170
+msgid "Add Bookmark"
+msgstr "Lisa järjehoidja"
+
+#: bookmarkssettingspage.cpp:197
+msgid "New bookmark"
+msgstr "Uus järjehoidja"
+
+#: bookmarkssettingspage.cpp:224 bookmarkssidebarpage.cpp:149
+msgid "Edit Bookmark"
+msgstr "Muuda järjehoidjaid"
+
+#: bookmarkssidebarpage.cpp:110
+msgid "Add Bookmark..."
+msgstr "Lisa järjehoidja..."
+
+#: bookmarkssidebarpage.cpp:113
+msgid "Insert Bookmark..."
+msgstr "Lisa järjehoidja..."
+
+#: bookmarkssidebarpage.cpp:125
+msgid "Insert Bookmark"
+msgstr "Lisa järjehoidja"
+
+#: detailsviewsettingspage.cpp:60
+msgid "Columns"
+msgstr "Veerud"
+
+#: detailsviewsettingspage.cpp:65
+msgid "Date"
+msgstr "Kuupäev"
+
+#: detailsviewsettingspage.cpp:68
+msgid "Permissions"
+msgstr "Õigused"
+
+#: detailsviewsettingspage.cpp:71
+msgid "Owner"
+msgstr "Omanik"
+
+#: detailsviewsettingspage.cpp:74
+msgid "Group"
+msgstr "Rühm"
+
+#: detailsviewsettingspage.cpp:78 iconsviewsettingspage.cpp:69
+msgid "Icon Size"
+msgstr "Ikooni suurus"
+
+#: detailsviewsettingspage.cpp:81 iconsviewsettingspage.cpp:77
+#: iconsviewsettingspage.cpp:99 iconsviewsettingspage.cpp:133
+#: iconsviewsettingspage.cpp:150
+msgid "Small"
+msgstr "Väike"
+
+#: detailsviewsettingspage.cpp:82 iconsviewsettingspage.cpp:134
+#: iconsviewsettingspage.cpp:151
+msgid "Medium"
+msgstr "Keskmine"
+
+#: detailsviewsettingspage.cpp:83 iconsviewsettingspage.cpp:83
+#: iconsviewsettingspage.cpp:105 iconsviewsettingspage.cpp:135
+#: iconsviewsettingspage.cpp:152
+msgid "Large"
+msgstr "Suur"
+
+#: detailsviewsettingspage.cpp:105 iconsviewsettingspage.cpp:115
+msgid "Text"
+msgstr "Tekst"
+
+#: detailsviewsettingspage.cpp:109 iconsviewsettingspage.cpp:119
+msgid "Font family:"
+msgstr "Fondipere:"
+
+#: detailsviewsettingspage.cpp:113 iconsviewsettingspage.cpp:123
+msgid "Font size:"
+msgstr "Fondi suurus:"
+
+#: dolphin.cpp:127
+msgid "&Move Here"
+msgstr "&Liiguta siia"
+
+#: dolphin.cpp:128
+msgid "&Copy Here"
+msgstr "&Kopeeri siia"
+
+#: dolphin.cpp:129
+msgid "&Link Here"
+msgstr "&Lingi siia"
+
+#: dolphin.cpp:132
+msgid "Escape"
+msgstr "Katkesta"
+
+#: dolphin.cpp:351 dolphin.cpp:353 dolphin.cpp:357
+msgid "New Folder"
+msgstr "Uus kataloog"
+
+#: dolphin.cpp:358
+msgid "Enter folder name:"
+msgstr "Sisesta kataloogi nimi:"
+
+#: dolphin.cpp:383
+msgid "Created folder %1."
+msgstr "Loodi kataloog %1."
+
+#: dolphin.cpp:393
+msgid "A folder named %1 already exists."
+msgstr "Kataloog nimega %1 eksisteerib juba."
+
+#: dolphin.cpp:397
+msgid "Creating of folder %1 failed."
+msgstr "Kataloogi %1 loomine nurjus."
+
+#: dolphin.cpp:434
+msgid "Could not create file."
+msgstr "Faili ei õnnestunud luua."
+
+#: dolphin.cpp:478
+msgid "A file named %1 already exists."
+msgstr "Fail nimega %1 eksisteerib juba."
+
+#: dolphin.cpp:488
+msgid "Created file %1."
+msgstr "Loodi fail %1."
+
+#: dolphin.cpp:498
+msgid "Creating of file %1 failed."
+msgstr "Faili %1 loomine nurjus."
+
+#: dolphin.cpp:527
+msgid "Do you really want to delete the %1 selected items?"
+msgstr "Soovid sa tõesti kustutada %1 valitud elementi?"
+
+#: dolphin.cpp:531
+msgid "Do you really want to delete '%1'?"
+msgstr "Kas tõesti kustutada '%1'?"
+
+#: dolphin.cpp:582
+msgid "Delete operation completed."
+msgstr "Kustutamine on lõpetatud."
+
+#: dolphin.cpp:700
+msgid "Paste 1 File"
+msgstr "1 faili asetamine"
+
+#: dolphin.cpp:703
+msgid "Paste %1 Files"
+msgstr "%1 faili asetamine"
+
+#: dolphin.cpp:1022
+msgid "Copy operation completed."
+msgstr "Kopeerimine on lõpetatud."
+
+#: dolphin.cpp:1026
+msgid "Move operation completed."
+msgstr "Liigutamine on lõpetatud."
+
+#: dolphin.cpp:1030
+msgid "Move to trash operation completed."
+msgstr "Prügikasti liigutamine on lõpetatud."
+
+#: dolphin.cpp:1106
+msgid "Home"
+msgstr "Kodu"
+
+#: dolphin.cpp:1107
+msgid "Storage Media"
+msgstr "Andmekandja"
+
+#: dolphin.cpp:1108
+msgid "Network"
+msgstr "Võrk"
+
+#: dolphin.cpp:1109
+msgid "Root"
+msgstr "Juurkataloog"
+
+#: dolphin.cpp:1110
+msgid "Trash"
+msgstr "Prügikast"
+
+#: dolphin.cpp:1171
+msgid "Folder..."
+msgstr "Kataloog..."
+
+#: dolphin.cpp:1176 renamedialog.cpp:33 undomanager.cpp:348
+msgid "Rename"
+msgstr "Muuda nime"
+
+#: dolphin.cpp:1180 undomanager.cpp:349
+msgid "Move to Trash"
+msgstr "Liiguta prügikasti"
+
+#: dolphin.cpp:1190
+msgid "Propert&ies"
+msgstr "Oma&dused"
+
+#: dolphin.cpp:1222
+msgid "Invert Selection"
+msgstr "Muuda valik vastupidiseks"
+
+#: dolphin.cpp:1235 generalsettingspage.cpp:92 viewpropertiesdialog.cpp:64
+#: viewsettingspage.cpp:42
+msgid "Icons"
+msgstr "Ikoonid"
+
+#: dolphin.cpp:1241 generalsettingspage.cpp:93 viewpropertiesdialog.cpp:65
+#: viewsettingspage.cpp:46
+msgid "Details"
+msgstr "Üksikasjad"
+
+#: dolphin.cpp:1247 generalsettingspage.cpp:94 viewpropertiesdialog.cpp:66
+#: viewsettingspage.cpp:50
+msgid "Previews"
+msgstr "Eelvaatlus"
+
+#: dolphin.cpp:1253
+msgid "By Name"
+msgstr "Nime järgi"
+
+#: dolphin.cpp:1258
+msgid "By Size"
+msgstr "Suuruse järgi"
+
+#: dolphin.cpp:1263
+msgid "By Date"
+msgstr "Kuupäeva järgi"
+
+#: dolphin.cpp:1268 viewpropertiesdialog.cpp:87
+msgid "Descending"
+msgstr "Kahanev"
+
+#: dolphin.cpp:1271
+msgid "Show Hidden Files"
+msgstr "Peidetud failide näitamine"
+
+#: dolphin.cpp:1275
+msgid "Split View"
+msgstr "Vaate tükeldamine"
+
+#: dolphin.cpp:1290
+msgid "Edit Location"
+msgstr "Asukoha redigeerimine"
+
+#: dolphin.cpp:1294
+msgid "Browse"
+msgstr "Lehitse"
+
+#: dolphin.cpp:1298
+msgid "Sidebar"
+msgstr "Külgriba"
+
+#: dolphin.cpp:1302
+msgid "Adjust View Properties..."
+msgstr "Vaate omaduste kohandamine..."
+
+#: dolphin.cpp:1313
+msgid "Open Terminal"
+msgstr "Ava terminal"
+
+#: dolphin.cpp:1318
+msgid "Find File..."
+msgstr "Otsi faili..."
+
+#: dolphin.cpp:1323
+msgid "Show Filter Bar"
+msgstr "Filtririba kuvamine"
+
+#: dolphin.cpp:1327
+msgid "Compare Files"
+msgstr "Võrdle faile"
+
+#: dolphin.cpp:1554
+msgid "Updating view properties..."
+msgstr "Vaate omaduste uuendamine..."
+
+#. i18n: file ./dolphinui.rc line 6
+#: dolphincontextmenu.cpp:121 rc.cpp:3
+#, no-c-format
+msgid "Create New"
+msgstr "Loo uus"
+
+#. i18n: file ./dolphinui.rc line 24
+#: dolphincontextmenu.cpp:139 rc.cpp:6
+#, no-c-format
+msgid "View Mode"
+msgstr "Vaaterežiim"
+
+#: dolphincontextmenu.cpp:142 dolphincontextmenu.cpp:211
+msgid "Bookmark this folder"
+msgstr "Lisa kataloog järjehoidjatesse"
+
+#: dolphincontextmenu.cpp:145
+msgid "Properties..."
+msgstr "Omadused..."
+
+#: dolphincontextmenu.cpp:153 dolphincontextmenu.cpp:233
+msgid "Add folder as bookmark"
+msgstr "Lisa kataloog järjehoidjana"
+
+#: dolphincontextmenu.cpp:310
+msgid "&Other..."
+msgstr "&Muu..."
+
+#: dolphincontextmenu.cpp:311
+msgid "Open With"
+msgstr "Ava kasutades"
+
+#: dolphincontextmenu.cpp:317 dolphincontextmenu.cpp:324
+msgid "Open With..."
+msgstr "Ava kasutades..."
+
+#: dolphincontextmenu.cpp:456
+msgid "Actions"
+msgstr "Toimingud"
+
+#: dolphinsettingsdialog.cpp:30
+msgid "Dolphin Preferences"
+msgstr "Dolphini eelistused"
+
+#: dolphinsettingsdialog.cpp:34
+msgid "General"
+msgstr "Üldine"
+
+#: dolphinsettingsdialog.cpp:40
+msgid "View Modes"
+msgstr "Vaaterežiimid"
+
+#: dolphinview.cpp:220
+msgid "The new item name is invalid."
+msgstr "Uue elemendi nimi on vigane."
+
+#: dolphinview.cpp:231
+msgid "Renaming items..."
+msgstr "Elementide nimede muutmine..."
+
+#: dolphinview.cpp:232
+msgid "Renaming finished."
+msgstr "Nimede muutmine on lõpetatud."
+
+#: dolphinview.cpp:251
+msgid "Renaming failed (item '%1' already exists)."
+msgstr "Nime muutmine nurjus (element '%1' on juba olemas)."
+
+#: dolphinview.cpp:548
+msgid "File Already Exists"
+msgstr "Fail on juba olemas"
+
+#: dolphinview.cpp:578
+msgid "Renamed file '%1' to '%2'."
+msgstr "Faili '%1' uus nimi on '%2'."
+
+#: dolphinview.cpp:585
+msgid "Renaming of file '%1' to '%2' failed."
+msgstr "Failile '%1' nime '%2' omistamine nurjus."
+
+#: dolphinview.cpp:909
+msgid "The location is empty."
+msgstr "Asukoht on tühi."
+
+#: dolphinview.cpp:912
+msgid "The location '%1' is invalid."
+msgstr "Asukoht '%1' on vigane."
+
+#: dolphinview.cpp:923 dolphinview.cpp:925
+msgid "Loading directory..."
+msgstr "Kataloogi laadimine..."
+
+#: dolphinview.cpp:942
+msgid "1 Item"
+msgstr "1 element"
+
+#: dolphinview.cpp:945
+msgid "%1 Items"
+msgstr "%1 elementi"
+
+#: dolphinview.cpp:951
+msgid "1 Folder"
+msgstr "1 kataloog"
+
+#: dolphinview.cpp:954
+msgid "%1 Folders"
+msgstr "%1 kataloogi"
+
+#: dolphinview.cpp:960
+msgid "1 File"
+msgstr "1 fail"
+
+#: dolphinview.cpp:963
+msgid "%1 Files"
+msgstr "%1 faili"
+
+#: dolphinview.cpp:994
+msgid "1 Folder selected"
+msgstr "1 kataloog on valitud"
+
+#: dolphinview.cpp:997
+msgid "%1 Folders selected"
+msgstr "%1 kataloogi on valitud"
+
+#: dolphinview.cpp:1006
+msgid "1 File selected (%1)"
+msgstr "1 fail on valitud (%1)"
+
+#: dolphinview.cpp:1009
+msgid "%1 Files selected (%1)"
+msgstr "%1 faili on valitud (%1)"
+
+#: editbookmarkdialog.cpp:72
+msgid "Icon:"
+msgstr "Ikoon:"
+
+#: editbookmarkdialog.cpp:80
+msgid "Name:"
+msgstr "Nimi:"
+
+#: editbookmarkdialog.cpp:86 generalsettingspage.cpp:70
+msgid "Location:"
+msgstr "Asukoht:"
+
+#: filterbar.cpp:44
+msgid "Filter:"
+msgstr "Filter:"
+
+#: generalsettingspage.cpp:62
+msgid "Home URL"
+msgstr "Kodulehe URL"
+
+#: generalsettingspage.cpp:80
+msgid "Use current location"
+msgstr "Praeguse asukoha kasutamine"
+
+#: generalsettingspage.cpp:83
+msgid "Use default location"
+msgstr "Vaikimisi asukoha kasutamine"
+
+#: generalsettingspage.cpp:88
+msgid "Default View Mode"
+msgstr "Vaikimisi vaaterežiim"
+
+#: generalsettingspage.cpp:103
+msgid "Start with split view"
+msgstr "Käivitatakse tükeldatud vaates"
+
+#: generalsettingspage.cpp:107
+msgid "Start with editable navigation bar"
+msgstr "Käivitatakse redigeeritava navigeerimisribaga"
+
+#: iconsviewsettingspage.cpp:93
+msgid "Preview Size"
+msgstr "Eelvaate suurus"
+
+#: iconsviewsettingspage.cpp:127
+msgid "Number of lines:"
+msgstr "Ridade arv:"
+
+#: iconsviewsettingspage.cpp:131
+msgid "Text width:"
+msgstr "Teksti laius:"
+
+#: iconsviewsettingspage.cpp:137
+msgid "Grid"
+msgstr "Alusvõrk"
+
+#: iconsviewsettingspage.cpp:142
+msgid "Arrangement:"
+msgstr "Korraldus:"
+
+#: iconsviewsettingspage.cpp:144
+msgid "Left to right"
+msgstr "Paremalt vasakule"
+
+#: iconsviewsettingspage.cpp:145
+msgid "Top to bottom"
+msgstr "Ülevalt alla"
+
+#: iconsviewsettingspage.cpp:148
+msgid "Grid spacing:"
+msgstr "Alusvõrgu samm:"
+
+#: infosidebarpage.cpp:163
+msgid "%1 items selected"
+msgstr "%1 elementi on valitud"
+
+#: infosidebarpage.cpp:283 infosidebarpage.cpp:286
+msgid "Type:"
+msgstr "Tüüp:"
+
+#: infosidebarpage.cpp:283
+msgid "Directory"
+msgstr "Kataloog"
+
+#: infosidebarpage.cpp:289
+msgid "Size:"
+msgstr "Suurus:"
+
+#: infosidebarpage.cpp:290
+msgid "Modified:"
+msgstr "Muudetud:"
+
+#: itemeffectsmanager.cpp:185
+msgid "%1 (Folder)"
+msgstr "%1 (kataloog)"
+
+#: main.cpp:31
+msgid "Document to open"
+msgstr "Avatav dokument"
+
+#: main.cpp:38
+msgid "Dolphin"
+msgstr "Dolphin"
+
+#: main.cpp:40
+msgid "File Manager"
+msgstr "Failihaldur"
+
+#: main.cpp:45
+msgid "Maintainer and developer"
+msgstr "Hooldaja ja arendaja"
+
+#: main.cpp:46 main.cpp:47
+msgid "Developer"
+msgstr "Arendaja"
+
+#: main.cpp:48 main.cpp:49
+msgid "Documentation"
+msgstr "Dokumentatsioon"
+
+#: main.cpp:50
+msgid "... for the great support and the amazing patches"
+msgstr "... suurepärase toe ja paikade jaoks"
+
+#: main.cpp:51
+msgid "... for their patches"
+msgstr "... paikade jaoks"
+
+#: main.cpp:53
+msgid "... for their translations"
+msgstr "... tõlgete jaoks"
+
+#. i18n: file ./dolphinui.rc line 30
+#: rc.cpp:9
+#, no-c-format
+msgid "Sort"
+msgstr "Sordi"
+
+#. i18n: file ./dolphinui.rc line 44
+#: rc.cpp:12
+#, no-c-format
+msgid "Navigation Bar"
+msgstr "Navigeerimisriba"
+
+#: renamedialog.cpp:30
+msgid "Rename Items"
+msgstr "Elementide nimede muutmine"
+
+#: renamedialog.cpp:39
+msgid "Rename the %1 selected items to:"
+msgstr "%1 valitud elemendi uus nimi:"
+
+#: renamedialog.cpp:43
+msgid "New name #"
+msgstr "Uus nimi #"
+
+#: renamedialog.cpp:68
+msgid "(# will be replaced by ascending numbers)"
+msgstr "(# asendatakse kasvavate arvudega)"
+
+#: statusbarspaceinfo.cpp:92
+msgid "%1% of %2 used"
+msgstr "%1% %2-st kasutusel"
+
+#: statusbarspaceinfo.cpp:98
+msgid "Getting size..."
+msgstr "Suuruse tuvastamine..."
+
+#: undomanager.cpp:87 undomanager.cpp:135 undomanager.cpp:251
+msgid "Undo: %1"
+msgstr "Võta tagasi: %1"
+
+#: undomanager.cpp:123
+msgid "Executing undo operation..."
+msgstr "Tühistamise rakendamine..."
+
+#: undomanager.cpp:124
+msgid "Executed undo operation."
+msgstr "Tühistamine rakendatud."
+
+#: undomanager.cpp:140 undomanager.cpp:247
+msgid "Redo: %1"
+msgstr "Tee uuesti: %1"
+
+#: undomanager.cpp:236
+msgid "Executing redo operation..."
+msgstr "Taastamise rakendamine..."
+
+#: undomanager.cpp:237
+msgid "Executed redo operation."
+msgstr "Taastamine rakendatud."
+
+#: undomanager.cpp:347
+msgid "Link"
+msgstr "Viit"
+
+#: undomanager.cpp:350
+msgid "Create New Folder"
+msgstr "Loo uus kataloog"
+
+#: undomanager.cpp:351
+msgid "Create New File"
+msgstr "Loo uus fail"
+
+#: urlnavigator.cpp:367
+msgid "Browse (Ctrl+B, Escape)"
+msgstr "Lehitse (Ctrl+B, Esc)"
+
+#: urlnavigator.cpp:375
+msgid "Edit location (Ctrl+L)"
+msgstr "Redigeeri asukohta (Ctrl+L)"
+
+#: urlnavigator.cpp:428
+msgid "Custom Path"
+msgstr "Muu asukoht"
+
+#: viewpropertiesdialog.cpp:41
+msgid "View Properties"
+msgstr "Vaate omadused"
+
+#: viewpropertiesdialog.cpp:62
+msgid "View mode:"
+msgstr "Vaaterežiim:"
+
+#: viewpropertiesdialog.cpp:70
+msgid "Sorting:"
+msgstr "Sortimine:"
+
+#: viewpropertiesdialog.cpp:84
+msgid "Sort order:"
+msgstr "Sortimisjärjestus:"
+
+#: viewpropertiesdialog.cpp:86
+msgid "Ascending"
+msgstr "Kasvav"
+
+#: viewpropertiesdialog.cpp:91
+msgid "Show hidden files"
+msgstr "Näidatakse peidetud faile"
+
+#: viewpropertiesdialog.cpp:97
+msgid "Apply view properties to:"
+msgstr "Vaate omaduste rakendamine:"
+
+#: viewpropertiesdialog.cpp:102
+msgid "Current folder"
+msgstr "Aktiivne kataloog"
+
+#: viewpropertiesdialog.cpp:105
+msgid "Current folder including all sub folders"
+msgstr "Aktiivne kataloog koos alamkataloogidega"
+
+#: viewpropertiesdialog.cpp:108
+msgid "All folders"
+msgstr "Kõik kataloogid"
+
+#: viewpropertiesdialog.cpp:210
+msgid "The view properties of all folders will be replaced. Do you want to continue?"
+msgstr "Kõikide kataloogide vaate omadused asendatakse. Kas soovid jätkata?"
+
+#: viewpropertiesdialog.cpp:224
+msgid ""
+"The view properties of all sub folders will be replaced. Do you want to "
+"continue?"
+msgstr "Kõikide alamkataloogide vaate omadused asendatakse. Kas soovid jätkata?"
+

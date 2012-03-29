@@ -1,0 +1,21 @@
+[Desktop Entry]
+ServiceTypes=all/allfiles
+Actions=CompressZip;CompressTarGz;CompressTarBz2
+X-KDE-Priority=TopLevel
+X-KDE-Submenu=Compress
+
+[Desktop Action CompressZip]
+Name=Zip Archive 
+Icon=ark
+Exec=ark --add-to %u %u.zip
+
+[Desktop Action CompressTarGz]
+Name=Gzipped Tar Archive
+Icon=ark
+Exec=ark --add-to %u %u.tar.gz
+
+[Desktop Action CompressTarBz2]
+Name=Bzip2 Tar Archive
+Icon=ark
+Exec=ark --add-to %u %u.tar.bz2
+

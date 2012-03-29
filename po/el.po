@@ -1,0 +1,743 @@
+# translation of el.po to Greek
+# translation of dolphin.po to
+# This file is put in the public domain.
+#
+# Peter Penz <peter.penz@gmx.at>, 2006.
+# Antonios Dimopoulos <menace82@gmail.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: el\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-28 22:10+0100\n"
+"PO-Revision-Date: 2007-07-31 02:10+0300\n"
+"Last-Translator: Antonios Dimopoulos <menace82@gmail.com>\n"
+"Language-Team: Greek\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Dimopoulos Antonios"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "antoniosdimopoulos@gmail.com"
+
+#: bookmarkssettingspage.cpp:57
+msgid "Icon"
+msgstr "Εικονίδιο"
+
+#: bookmarkssettingspage.cpp:58
+msgid "Name"
+msgstr "Όνομα"
+
+#: bookmarkssettingspage.cpp:59
+msgid "Location"
+msgstr "Τοποθεσία"
+
+#: bookmarkssettingspage.cpp:76
+msgid "Add..."
+msgstr "Προσθήκη..."
+
+#: bookmarkssettingspage.cpp:81 bookmarkssidebarpage.cpp:114
+msgid "Edit..."
+msgstr "Επεξεργασία..."
+
+#: bookmarkssettingspage.cpp:91
+msgid "Move Up"
+msgstr "Μετακίνηση Πάνω"
+
+#: bookmarkssettingspage.cpp:96
+msgid "Move Down"
+msgstr "Μετακίνηση Κάτω"
+
+#: bookmarkssettingspage.cpp:196 bookmarkssidebarpage.cpp:170
+msgid "Add Bookmark"
+msgstr "Προσθήκη Σελιδοδείκτη"
+
+#: bookmarkssettingspage.cpp:197
+msgid "New bookmark"
+msgstr "Νέος σελιδοδείκτης"
+
+#: bookmarkssettingspage.cpp:224 bookmarkssidebarpage.cpp:149
+msgid "Edit Bookmark"
+msgstr "Επεξεργασία Σελιδοδείκτη"
+
+#: bookmarkssidebarpage.cpp:110
+msgid "Add Bookmark..."
+msgstr "Προσθήκη Σελιδοδείκτη..."
+
+#: bookmarkssidebarpage.cpp:113
+msgid "Insert Bookmark..."
+msgstr "Εισαγωγή Σελιδοδείκτη..."
+
+#: bookmarkssidebarpage.cpp:125
+msgid "Insert Bookmark"
+msgstr "Εισαγωγή Σελιδοδείκτη"
+
+#: detailsviewsettingspage.cpp:60
+msgid "Columns"
+msgstr "Στήλες"
+
+#: detailsviewsettingspage.cpp:65
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: detailsviewsettingspage.cpp:68
+msgid "Permissions"
+msgstr "Άδειες"
+
+#: detailsviewsettingspage.cpp:71
+msgid "Owner"
+msgstr "Ιδιοκτήτης"
+
+#: detailsviewsettingspage.cpp:74
+msgid "Group"
+msgstr "Ομάδα"
+
+#: detailsviewsettingspage.cpp:78 iconsviewsettingspage.cpp:69
+msgid "Icon Size"
+msgstr "Μέγεθος Εικονιδίου"
+
+#: detailsviewsettingspage.cpp:81 iconsviewsettingspage.cpp:77
+#: iconsviewsettingspage.cpp:99 iconsviewsettingspage.cpp:133
+#: iconsviewsettingspage.cpp:150
+msgid "Small"
+msgstr "Μικρό"
+
+#: detailsviewsettingspage.cpp:82 iconsviewsettingspage.cpp:134
+#: iconsviewsettingspage.cpp:151
+msgid "Medium"
+msgstr "Μεσαίο"
+
+#: detailsviewsettingspage.cpp:83 iconsviewsettingspage.cpp:83
+#: iconsviewsettingspage.cpp:105 iconsviewsettingspage.cpp:135
+#: iconsviewsettingspage.cpp:152
+msgid "Large"
+msgstr "Μεγάλο"
+
+#: detailsviewsettingspage.cpp:105 iconsviewsettingspage.cpp:115
+msgid "Text"
+msgstr "Κείμενο"
+
+#: detailsviewsettingspage.cpp:109 iconsviewsettingspage.cpp:119
+msgid "Font family:"
+msgstr "Τύπος γραμματοσειράς:"
+
+#: detailsviewsettingspage.cpp:113 iconsviewsettingspage.cpp:123
+msgid "Font size:"
+msgstr "Μέγεθος γραμματοσειράς:"
+
+#: dolphin.cpp:127
+msgid "&Move Here"
+msgstr "&Μετακίνηση Εδώ"
+
+#: dolphin.cpp:128
+msgid "&Copy Here"
+msgstr "&Αντιγραφή Εδώ"
+
+#: dolphin.cpp:129
+msgid "&Link Here"
+msgstr "&Σύνδεσμος Εδώ"
+
+#: dolphin.cpp:132
+msgid "Escape"
+msgstr "Escape"
+
+#: dolphin.cpp:351 dolphin.cpp:353 dolphin.cpp:357
+msgid "New Folder"
+msgstr "Νέος Φάκελος"
+
+#: dolphin.cpp:358
+msgid "Enter folder name:"
+msgstr "Εισάγετε το όνομα φακέλου:"
+
+#: dolphin.cpp:383
+msgid "Created folder %1."
+msgstr "Ο φάκελος %1 δημιουργήθηκε."
+
+#: dolphin.cpp:393
+msgid "A folder named %1 already exists."
+msgstr "Ένας φάκελος με το όνομα %1 υπάρχει ήδη."
+
+#: dolphin.cpp:397
+msgid "Creating of folder %1 failed."
+msgstr "Η δημιουργία του φακέλου %1 απέτυχε."
+
+#: dolphin.cpp:434
+msgid "Could not create file."
+msgstr "Αδύνατη η δημιουργία του αρχείου."
+
+#: dolphin.cpp:478
+msgid "A file named %1 already exists."
+msgstr "Ένα αρχείο με το όνομα %1 υπάρχει ήδη."
+
+#: dolphin.cpp:488
+msgid "Created file %1."
+msgstr "Το αρχείο %1 δημιουργήθηκε."
+
+#: dolphin.cpp:498
+msgid "Creating of file %1 failed."
+msgstr "Η δημιουργία του αρχείου %1 απέτυχε."
+
+#: dolphin.cpp:527
+msgid "Do you really want to delete the %1 selected items?"
+msgstr "Σίγουρα θέλετε να διαγράψετε τα %1 επιλεγμένα αντικείμενα;"
+
+#: dolphin.cpp:531
+msgid "Do you really want to delete '%1'?"
+msgstr "Σίγουρα θέλετε να διαγράψετε το %1 ;"
+
+#: dolphin.cpp:582
+msgid "Delete operation completed."
+msgstr "Η διαδικασία διαγραφής ολοκληρώθηκε."
+
+#: dolphin.cpp:700
+msgid "Paste 1 File"
+msgstr "Επικόλληση 1 Αρχείου"
+
+#: dolphin.cpp:703
+msgid "Paste %1 Files"
+msgstr "Επικόλληση %1 Αρχείων"
+
+#: dolphin.cpp:1022
+msgid "Copy operation completed."
+msgstr "Η διαδικασία αντιγραφής ολοκληρώθηκε."
+
+#: dolphin.cpp:1026
+msgid "Move operation completed."
+msgstr "Η διαδικασία μετακίνησης ολοκληρώθηκε."
+
+#: dolphin.cpp:1030
+msgid "Move to trash operation completed."
+msgstr "Η διαδικασία μετακίνησης στον κάδο ολοκληρώθηκε."
+
+#: dolphin.cpp:1106
+msgid "Home"
+msgstr "Προσωπικός Φάκελος"
+
+#: dolphin.cpp:1107
+msgid "Storage Media"
+msgstr "Μέσα Αποθήκευσης"
+
+#: dolphin.cpp:1108
+msgid "Network"
+msgstr "Δίκτυο"
+
+#: dolphin.cpp:1109
+msgid "Root"
+msgstr "Αρχικός Φάκελος"
+
+#: dolphin.cpp:1110
+msgid "Trash"
+msgstr "Απορρίματα"
+
+#: dolphin.cpp:1171
+msgid "Folder..."
+msgstr "Φάκελος..."
+
+#: dolphin.cpp:1176 renamedialog.cpp:33 undomanager.cpp:348
+msgid "Rename"
+msgstr "Μετονομασία"
+
+#: dolphin.cpp:1180 undomanager.cpp:349
+msgid "Move to Trash"
+msgstr "Μετακίνηση στον Κάδο"
+
+#: dolphin.cpp:1190
+msgid "Propert&ies"
+msgstr "&Ιδιότητες"
+
+#: dolphin.cpp:1222
+msgid "Invert Selection"
+msgstr "Αντιστροφή Επιλογής"
+
+#: dolphin.cpp:1235 generalsettingspage.cpp:92 viewpropertiesdialog.cpp:64
+#: viewsettingspage.cpp:42
+msgid "Icons"
+msgstr "Εικονίδια"
+
+#: dolphin.cpp:1241 generalsettingspage.cpp:93 viewpropertiesdialog.cpp:65
+#: viewsettingspage.cpp:46
+msgid "Details"
+msgstr "Λεπτομέρειες"
+
+#: dolphin.cpp:1247 generalsettingspage.cpp:94 viewpropertiesdialog.cpp:66
+#: viewsettingspage.cpp:50
+msgid "Previews"
+msgstr "Προεπισκοπίσεις"
+
+#: dolphin.cpp:1253
+msgid "By Name"
+msgstr "Κατά Όνομα"
+
+#: dolphin.cpp:1258
+msgid "By Size"
+msgstr "Κατά Μέγεθος"
+
+#: dolphin.cpp:1263
+msgid "By Date"
+msgstr "Κατά Ημερομηνία"
+
+#: dolphin.cpp:1268 viewpropertiesdialog.cpp:87
+msgid "Descending"
+msgstr "Φθίνουσα"
+
+#: dolphin.cpp:1271
+msgid "Show Hidden Files"
+msgstr "Εμφάνιση Κρυφών Αρχείων"
+
+#: dolphin.cpp:1275
+msgid "Split View"
+msgstr "Διαίρεση Προβολής"
+
+#: dolphin.cpp:1290
+msgid "Edit Location"
+msgstr "Επεξεργασία Τοποθεσίας"
+
+#: dolphin.cpp:1294
+msgid "Browse"
+msgstr "Αναζήτηση"
+
+#: dolphin.cpp:1298
+msgid "Sidebar"
+msgstr "Πλαϊνή Μπάρα"
+
+#: dolphin.cpp:1302
+msgid "Adjust View Properties..."
+msgstr "Ρύθμιση Ιδιοτήτων Προβολής..."
+
+#: dolphin.cpp:1313
+msgid "Open Terminal"
+msgstr "Άνοιγμα Τερματικού"
+
+#: dolphin.cpp:1318
+msgid "Find File..."
+msgstr "Εύρεση Αρχείου..."
+
+#: dolphin.cpp:1323
+msgid "Show Filter Bar"
+msgstr "Εμφάνιση Γραμμής Φίλτρου"
+
+#: dolphin.cpp:1327
+msgid "Compare Files"
+msgstr "Σύγκριση Αρχείων"
+
+#: dolphin.cpp:1554
+msgid "Updating view properties..."
+msgstr "Ενημέρωση ιδιοτήτων προβολής..."
+
+#. i18n: file ./dolphinui.rc line 6
+#: dolphincontextmenu.cpp:121 rc.cpp:3
+#, no-c-format
+msgid "Create New"
+msgstr "Δημιουργία Νέου"
+
+#. i18n: file ./dolphinui.rc line 24
+#: dolphincontextmenu.cpp:139 rc.cpp:6
+#, no-c-format
+msgid "View Mode"
+msgstr "Τρόπος Προβολής"
+
+#: dolphincontextmenu.cpp:142 dolphincontextmenu.cpp:211
+msgid "Bookmark this folder"
+msgstr "Προσθήκη στους σελιδοδείκτες"
+
+#: dolphincontextmenu.cpp:145
+msgid "Properties..."
+msgstr "Ιδιότητες..."
+
+#: dolphincontextmenu.cpp:153 dolphincontextmenu.cpp:233
+msgid "Add folder as bookmark"
+msgstr "Προσθήκη φακέλου ως σελιδοδείκτης"
+
+#: dolphincontextmenu.cpp:310
+msgid "&Other..."
+msgstr "Ά&λλα..."
+
+#: dolphincontextmenu.cpp:311
+msgid "Open With"
+msgstr "Άνοιγμα Με"
+
+#: dolphincontextmenu.cpp:317 dolphincontextmenu.cpp:324
+msgid "Open With..."
+msgstr "Άνοιγμα Με..."
+
+#: dolphincontextmenu.cpp:456
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: dolphinsettingsdialog.cpp:30
+msgid "Dolphin Preferences"
+msgstr "Ρυθμίσεις του Dolphin"
+
+#: dolphinsettingsdialog.cpp:34
+msgid "General"
+msgstr "Γενικές"
+
+#: dolphinsettingsdialog.cpp:40
+msgid "View Modes"
+msgstr "Προβολή"
+
+#: dolphinview.cpp:220
+msgid "The new item name is invalid."
+msgstr "Το όνομα του νέου αντικειμένου είναι μη αποδεκτό."
+
+#: dolphinview.cpp:231
+msgid "Renaming items..."
+msgstr "Μετονομασία αντικειμένων..."
+
+#: dolphinview.cpp:232
+msgid "Renaming finished."
+msgstr "Η μετονομασία ολοκληρώθηκε."
+
+#: dolphinview.cpp:251
+msgid "Renaming failed (item '%1' already exists)."
+msgstr "Η μετονομασία απέτυχε (το αντικείμενο %1 υπάρχει ήδη)."
+
+#: dolphinview.cpp:548
+msgid "File Already Exists"
+msgstr "Το Αρχείο Υπάρχει Ήδη"
+
+#: dolphinview.cpp:578
+msgid "Renamed file '%1' to '%2'."
+msgstr "Το αρχείο %1 μετονομάστηκε σε %2 ."
+
+#: dolphinview.cpp:585
+msgid "Renaming of file '%1' to '%2' failed."
+msgstr "Η μετονομασία του αρχείου από %1 σε %2 απέτυχε."
+
+#: dolphinview.cpp:909
+msgid "The location is empty."
+msgstr "Η τοποθεσία είναι άδεια."
+
+#: dolphinview.cpp:912
+msgid "The location '%1' is invalid."
+msgstr "Η τοποθεσία %1 είναι λανθασμένη."
+
+#: dolphinview.cpp:923 dolphinview.cpp:925
+msgid "Loading directory..."
+msgstr "Φόρτωση φακέλου..."
+
+#: dolphinview.cpp:942
+msgid "1 Item"
+msgstr "1 Αντικείμενο"
+
+#: dolphinview.cpp:945
+msgid "%1 Items"
+msgstr "%1 Αντικείμενα"
+
+#: dolphinview.cpp:951
+msgid "1 Folder"
+msgstr "1 Φάκελος"
+
+#: dolphinview.cpp:954
+msgid "%1 Folders"
+msgstr "%1 Φάκελοι"
+
+#: dolphinview.cpp:960
+msgid "1 File"
+msgstr "1 Αρχείο"
+
+#: dolphinview.cpp:963
+msgid "%1 Files"
+msgstr "%1 Αρχεία"
+
+#: dolphinview.cpp:994
+msgid "1 Folder selected"
+msgstr "1 Φάκελος επιλέχθηκε"
+
+#: dolphinview.cpp:997
+msgid "%1 Folders selected"
+msgstr "%1 Φάκελοι επιλέχθηκαν"
+
+#: dolphinview.cpp:1006
+msgid "1 File selected (%1)"
+msgstr "1 Αρχείο επιλέχθηκε (%1)"
+
+#: dolphinview.cpp:1009
+msgid "%1 Files selected (%1)"
+msgstr "%1 Αρχεία επιλέχθηκαν (%1)"
+
+#: editbookmarkdialog.cpp:72
+msgid "Icon:"
+msgstr "Εικονίδιο:"
+
+#: editbookmarkdialog.cpp:80
+msgid "Name:"
+msgstr "Όνομα:"
+
+#: editbookmarkdialog.cpp:86 generalsettingspage.cpp:70
+msgid "Location:"
+msgstr "Τοποθεσία:"
+
+#: filterbar.cpp:44
+msgid "Filter:"
+msgstr "Φίλτρο:"
+
+#: generalsettingspage.cpp:62
+msgid "Home URL"
+msgstr "Αρχική Τοποθεσία"
+
+#: generalsettingspage.cpp:80
+msgid "Use current location"
+msgstr "Χρήση τρέχουσας τοποθεσίας"
+
+#: generalsettingspage.cpp:83
+msgid "Use default location"
+msgstr "Χρήση προκαθορισμένης τοποθεσίας"
+
+#: generalsettingspage.cpp:88
+msgid "Default View Mode"
+msgstr "Προκαθορισμένος Τρόπος Προβολής"
+
+#: generalsettingspage.cpp:103
+msgid "Start with split view"
+msgstr "Εκκίνηση με διαιρεμένη προβολή"
+
+#: generalsettingspage.cpp:107
+msgid "Start with editable navigation bar"
+msgstr "Εκκίνηση με επεξεργάσιμη γραμμή τοποθεσίας"
+
+#: iconsviewsettingspage.cpp:93
+msgid "Preview Size"
+msgstr "Μέγεθος Προεπισκόπισης"
+
+#: iconsviewsettingspage.cpp:127
+msgid "Number of lines:"
+msgstr "Αριθμός γραμμών:"
+
+#: iconsviewsettingspage.cpp:131
+msgid "Text width:"
+msgstr "Πλάτος κειμένου"
+
+#: iconsviewsettingspage.cpp:137
+msgid "Grid"
+msgstr "Πλέγμα"
+
+#: iconsviewsettingspage.cpp:142
+msgid "Arrangement:"
+msgstr "Διευθέτηση:"
+
+#: iconsviewsettingspage.cpp:144
+msgid "Left to right"
+msgstr "Από αριστερά στα δεξιά"
+
+#: iconsviewsettingspage.cpp:145
+msgid "Top to bottom"
+msgstr "Από πάνω προς τα κάτω"
+
+#: iconsviewsettingspage.cpp:148
+msgid "Grid spacing:"
+msgstr "Διάστημα πλέγματος:"
+
+#: infosidebarpage.cpp:163
+msgid "%1 items selected"
+msgstr "%1 αντικείμενα επιλέχθηκαν"
+
+#: infosidebarpage.cpp:283 infosidebarpage.cpp:286
+msgid "Type:"
+msgstr "Τύπος:"
+
+#: infosidebarpage.cpp:283
+msgid "Directory"
+msgstr "Φάκελος"
+
+#: infosidebarpage.cpp:289
+msgid "Size:"
+msgstr "Μέγεθος:"
+
+#: infosidebarpage.cpp:290
+msgid "Modified:"
+msgstr "Τροποποιημένο:"
+
+#: itemeffectsmanager.cpp:185
+msgid "%1 (Folder)"
+msgstr "%1 (Φάκελος)"
+
+#: main.cpp:31
+msgid "Document to open"
+msgstr "Έγγραφο προς άνοιγμα"
+
+#: main.cpp:38
+msgid "Dolphin"
+msgstr "Dolphin"
+
+#: main.cpp:40
+msgid "File Manager"
+msgstr "Διαχειριστής Αρχείων"
+
+#: main.cpp:45
+msgid "Maintainer and developer"
+msgstr "Συντηρητής και προγραμματιστής"
+
+#: main.cpp:46 main.cpp:47
+msgid "Developer"
+msgstr "Προγραμματιστής"
+
+#: main.cpp:48 main.cpp:49
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#: main.cpp:50
+msgid "... for the great support and the amazing patches"
+msgstr "... για την μεγάλη υποστήριξη και τα εξαιρετικά patches τους"
+
+#: main.cpp:51
+msgid "... for their patches"
+msgstr "... για τα patches τους"
+
+#: main.cpp:53
+msgid "... for their translations"
+msgstr "... για τις μεταγλωττίσεις τους"
+
+#. i18n: file ./dolphinui.rc line 30
+#: rc.cpp:9
+#, no-c-format
+msgid "Sort"
+msgstr "Ταξινόμηση"
+
+#. i18n: file ./dolphinui.rc line 44
+#: rc.cpp:12
+#, no-c-format
+msgid "Navigation Bar"
+msgstr "Γραμμή Τοποθεσίας"
+
+#: renamedialog.cpp:30
+msgid "Rename Items"
+msgstr "Μετονομασία Αντικειμένων"
+
+#: renamedialog.cpp:39
+msgid "Rename the %1 selected items to:"
+msgstr "Μετονομασία των %1 επιλεγμένων αντικείμενων σε:"
+
+#: renamedialog.cpp:43
+msgid "New name #"
+msgstr "Νέο όνομα #"
+
+#: renamedialog.cpp:68
+msgid "(# will be replaced by ascending numbers)"
+msgstr "(η # θα αντικατασταθεί από αύξοντες αριθμούς)"
+
+#: statusbarspaceinfo.cpp:92
+msgid "%1% of %2 used"
+msgstr "χρησιμοποιείται το %1 από %2"
+
+#: statusbarspaceinfo.cpp:98
+msgid "Getting size..."
+msgstr "Λήψη μεγέθους..."
+
+#: undomanager.cpp:87 undomanager.cpp:135 undomanager.cpp:251
+msgid "Undo: %1"
+msgstr "Αναίρεση: %1"
+
+#: undomanager.cpp:123
+msgid "Executing undo operation..."
+msgstr "Εκτέλεση αναίρεσης..."
+
+#: undomanager.cpp:124
+msgid "Executed undo operation."
+msgstr "Η αναίρεση ολοκληρώθηκε"
+
+#: undomanager.cpp:140 undomanager.cpp:247
+msgid "Redo: %1"
+msgstr "Ακύρωση αναίρεσης: %1"
+
+#: undomanager.cpp:236
+msgid "Executing redo operation..."
+msgstr "Εκτέλεση ακύρωσης αναίρεσης..."
+
+#: undomanager.cpp:237
+msgid "Executed redo operation."
+msgstr "Η ακύρωση αναίρεσης ολοκληρώθηκε."
+
+#: undomanager.cpp:347
+msgid "Link"
+msgstr "Σύνδεσμος"
+
+#: undomanager.cpp:350
+msgid "Create New Folder"
+msgstr "Δημιουργία Νέου Φακέλου"
+
+#: undomanager.cpp:351
+msgid "Create New File"
+msgstr "Δημιουργία Νέου Αρχείου"
+
+#: urlnavigator.cpp:367
+msgid "Browse (Ctrl+B, Escape)"
+msgstr "Αναζήτηση (Ctrl+B, Escape)"
+
+#: urlnavigator.cpp:375
+msgid "Edit location (Ctrl+L)"
+msgstr "Επεξεργασία Τοποθεσίας (Ctrl+L)"
+
+#: urlnavigator.cpp:428
+#, fuzzy
+msgid "Custom Path"
+msgstr "Προσωπική Διαδρομή"
+
+#: viewpropertiesdialog.cpp:41
+msgid "View Properties"
+msgstr "Προβολή Ιδιοτήτων"
+
+#: viewpropertiesdialog.cpp:62
+msgid "View mode:"
+msgstr "Τρόπος προβολής:"
+
+#: viewpropertiesdialog.cpp:70
+msgid "Sorting:"
+msgstr "Ταξινόμηση:"
+
+#: viewpropertiesdialog.cpp:84
+msgid "Sort order:"
+msgstr "Σειρά ταξινόμησης:"
+
+#: viewpropertiesdialog.cpp:86
+msgid "Ascending"
+msgstr "Αύξουσα"
+
+#: viewpropertiesdialog.cpp:91
+msgid "Show hidden files"
+msgstr "Εμφάνιση κρυφών αρχείων"
+
+#: viewpropertiesdialog.cpp:97
+msgid "Apply view properties to:"
+msgstr "Εφαρμογή των ιδιοτήτων προβολής σε:"
+
+#: viewpropertiesdialog.cpp:102
+msgid "Current folder"
+msgstr "Τρέχοντα φάκελο"
+
+#: viewpropertiesdialog.cpp:105
+msgid "Current folder including all sub folders"
+msgstr "Τρέχοντα φάκελο συμπεριλαμβανομένων όλων των υποφακέλων"
+
+#: viewpropertiesdialog.cpp:108
+msgid "All folders"
+msgstr "Όλους τους φάκελους"
+
+#: viewpropertiesdialog.cpp:210
+msgid "The view properties of all folders will be replaced. Do you want to continue?"
+msgstr "Οι ιδιότητες προβολής όλων των φακέλων θα αντικατασταθούν. Θέλετε να συνεχίσετε;"
+
+#: viewpropertiesdialog.cpp:224
+msgid ""
+"The view properties of all sub folders will be replaced. Do you want to "
+"continue?"
+msgstr "Οι ιδιότητες προβολής όλων των υποφακέλων θα αντικατασταθούν. Θέλετε να συνεχίσετε;"
+
+msgid "Left Sidebar"
+msgstr "Αριστερή Πλαϊνή Μπάρα"
+
+msgid "Right Sidebar"
+msgstr "Δεξιά Πλαϊνή Μπάρα"
+
+msgid "Save view properties for each folder"
+msgstr "Αποθήκευση ιδιοτήτων προβολής για κάθε φάκελο"
+

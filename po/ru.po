@@ -1,0 +1,733 @@
+# translation of ru.po to Russian
+# This file is put in the public domain.
+#
+# Иван Бобров <ibobrik@gmail.com>, 2006.
+# Igor Stepin <igor_for_os@stepin.name>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-28 22:10+0100\n"
+"PO-Revision-Date: 2007-02-10 18:04+0400\n"
+"Last-Translator: Igor Stepin <is@istudio.ru>\n"
+"Language-Team: Russian <ru@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Иван Бобров, Игорь Степин"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "ibobrik@gmail.com, igor_for_os@stepin.name"
+
+#: bookmarkssettingspage.cpp:57
+msgid "Icon"
+msgstr "Значок"
+
+#: bookmarkssettingspage.cpp:58
+msgid "Name"
+msgstr "Имя"
+
+#: bookmarkssettingspage.cpp:59
+msgid "Location"
+msgstr "Путь"
+
+#: bookmarkssettingspage.cpp:76
+msgid "Add..."
+msgstr "Добавить..."
+
+#: bookmarkssettingspage.cpp:81 bookmarkssidebarpage.cpp:114
+msgid "Edit..."
+msgstr "Редактировать..."
+
+#: bookmarkssettingspage.cpp:91
+msgid "Move Up"
+msgstr "Переместить выше"
+
+#: bookmarkssettingspage.cpp:96
+msgid "Move Down"
+msgstr "Переместить ниже"
+
+#: bookmarkssettingspage.cpp:196 bookmarkssidebarpage.cpp:170
+msgid "Add Bookmark"
+msgstr "Добавить закладку"
+
+#: bookmarkssettingspage.cpp:197
+msgid "New bookmark"
+msgstr "Новая закладка"
+
+#: bookmarkssettingspage.cpp:224 bookmarkssidebarpage.cpp:149
+msgid "Edit Bookmark"
+msgstr "Редактировать закладки"
+
+#: bookmarkssidebarpage.cpp:110
+msgid "Add Bookmark..."
+msgstr "Добавить закладку..."
+
+#: bookmarkssidebarpage.cpp:113
+msgid "Insert Bookmark..."
+msgstr "Добавить закладку..."
+
+#: bookmarkssidebarpage.cpp:125
+msgid "Insert Bookmark"
+msgstr "Добавить закладку"
+
+#: detailsviewsettingspage.cpp:60
+msgid "Columns"
+msgstr "Столбцы"
+
+#: detailsviewsettingspage.cpp:65
+msgid "Date"
+msgstr "Дата"
+
+#: detailsviewsettingspage.cpp:68
+msgid "Permissions"
+msgstr "Права"
+
+#: detailsviewsettingspage.cpp:71
+msgid "Owner"
+msgstr "Владелец"
+
+#: detailsviewsettingspage.cpp:74
+msgid "Group"
+msgstr "Группа"
+
+#: detailsviewsettingspage.cpp:78 iconsviewsettingspage.cpp:69
+msgid "Icon Size"
+msgstr "Размер значка"
+
+#: detailsviewsettingspage.cpp:81 iconsviewsettingspage.cpp:77
+#: iconsviewsettingspage.cpp:99 iconsviewsettingspage.cpp:133
+#: iconsviewsettingspage.cpp:150
+msgid "Small"
+msgstr "Маленькие"
+
+#: detailsviewsettingspage.cpp:82 iconsviewsettingspage.cpp:134
+#: iconsviewsettingspage.cpp:151
+msgid "Medium"
+msgstr "Средние"
+
+#: detailsviewsettingspage.cpp:83 iconsviewsettingspage.cpp:83
+#: iconsviewsettingspage.cpp:105 iconsviewsettingspage.cpp:135
+#: iconsviewsettingspage.cpp:152
+msgid "Large"
+msgstr "Большие"
+
+#: detailsviewsettingspage.cpp:105 iconsviewsettingspage.cpp:115
+msgid "Text"
+msgstr "Текст"
+
+#: detailsviewsettingspage.cpp:109 iconsviewsettingspage.cpp:119
+msgid "Font family:"
+msgstr "Шрифт:"
+
+#: detailsviewsettingspage.cpp:113 iconsviewsettingspage.cpp:123
+msgid "Font size:"
+msgstr "Размер шрифта:"
+
+#: dolphin.cpp:127
+msgid "&Move Here"
+msgstr "&Переместить сюда"
+
+#: dolphin.cpp:128
+msgid "&Copy Here"
+msgstr "&Копировать сюда"
+
+#: dolphin.cpp:129
+msgid "&Link Here"
+msgstr "&Создать ссылку"
+
+#: dolphin.cpp:132
+msgid "Escape"
+msgstr "Выход"
+
+#: dolphin.cpp:351 dolphin.cpp:353 dolphin.cpp:357
+msgid "New Folder"
+msgstr "Создать папку"
+
+#: dolphin.cpp:358
+msgid "Enter folder name:"
+msgstr "Введите название папки:"
+
+#: dolphin.cpp:383
+msgid "Created folder %1."
+msgstr "Создана папка %1."
+
+#: dolphin.cpp:393
+msgid "A folder named %1 already exists."
+msgstr "Папка %1 уже существует."
+
+#: dolphin.cpp:397
+msgid "Creating of folder %1 failed."
+msgstr "Создать папку %1 не удалось."
+
+#: dolphin.cpp:434
+msgid "Could not create file."
+msgstr "Невозможно создать файл."
+
+#: dolphin.cpp:478
+msgid "A file named %1 already exists."
+msgstr "Файл %1 уже существует."
+
+#: dolphin.cpp:488
+msgid "Created file %1."
+msgstr "Создан файл %1."
+
+#: dolphin.cpp:498
+msgid "Creating of file %1 failed."
+msgstr "Создание файла %1 завершилось неудачей."
+
+#: dolphin.cpp:527
+msgid "Do you really want to delete the %1 selected items?"
+msgstr "Вы действительно хотите удалить %1 элементов?"
+
+#: dolphin.cpp:531
+msgid "Do you really want to delete '%1'?"
+msgstr "Вы действительно хотите удалить %1?"
+
+#: dolphin.cpp:582
+msgid "Delete operation completed."
+msgstr "Удаление завершено."
+
+#: dolphin.cpp:700
+msgid "Paste 1 File"
+msgstr "Вставить 1 файл"
+
+#: dolphin.cpp:703
+msgid "Paste %1 Files"
+msgstr "Вставить %1 файлов"
+
+#: dolphin.cpp:1022
+msgid "Copy operation completed."
+msgstr "Операция копирования завершена."
+
+#: dolphin.cpp:1026
+msgid "Move operation completed."
+msgstr "Операция перемещения завершена."
+
+#: dolphin.cpp:1030
+msgid "Move to trash operation completed."
+msgstr "Операция перемещения в корзину завершена."
+
+#: dolphin.cpp:1106
+msgid "Home"
+msgstr "Домой"
+
+#: dolphin.cpp:1107
+msgid "Storage Media"
+msgstr "Устройства хранения данных"
+
+#: dolphin.cpp:1108
+msgid "Network"
+msgstr "Сеть"
+
+#: dolphin.cpp:1109
+msgid "Root"
+msgstr "Корень"
+
+#: dolphin.cpp:1110
+msgid "Trash"
+msgstr "Корзина"
+
+#: dolphin.cpp:1171
+msgid "Folder..."
+msgstr "Папку..."
+
+#: dolphin.cpp:1176 renamedialog.cpp:33 undomanager.cpp:348
+msgid "Rename"
+msgstr "Переименовать"
+
+#: dolphin.cpp:1180 undomanager.cpp:349
+msgid "Move to Trash"
+msgstr "Переместить в корзину"
+
+#: dolphin.cpp:1190
+msgid "Propert&ies"
+msgstr "Наст&ройки"
+
+#: dolphin.cpp:1222
+msgid "Invert Selection"
+msgstr "Инвертировать выделение"
+
+#: dolphin.cpp:1235 generalsettingspage.cpp:92 viewpropertiesdialog.cpp:64
+#: viewsettingspage.cpp:42
+msgid "Icons"
+msgstr "Значки"
+
+#: dolphin.cpp:1241 generalsettingspage.cpp:93 viewpropertiesdialog.cpp:65
+#: viewsettingspage.cpp:46
+msgid "Details"
+msgstr "Детали"
+
+#: dolphin.cpp:1247 generalsettingspage.cpp:94 viewpropertiesdialog.cpp:66
+#: viewsettingspage.cpp:50
+msgid "Previews"
+msgstr "Предпросмотр"
+
+#: dolphin.cpp:1253
+msgid "By Name"
+msgstr "По имени"
+
+#: dolphin.cpp:1258
+msgid "By Size"
+msgstr "По размеру"
+
+#: dolphin.cpp:1263
+msgid "By Date"
+msgstr "По дате"
+
+#: dolphin.cpp:1268 viewpropertiesdialog.cpp:87
+msgid "Descending"
+msgstr "В порядке убывания"
+
+#: dolphin.cpp:1271
+msgid "Show Hidden Files"
+msgstr "Показывать скрытые файлы"
+
+#: dolphin.cpp:1275
+msgid "Split View"
+msgstr "Разделить окно"
+
+#: dolphin.cpp:1290
+msgid "Edit Location"
+msgstr "Изменение пути"
+
+#: dolphin.cpp:1294
+msgid "Browse"
+msgstr "Обзор"
+
+#: dolphin.cpp:1298
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: dolphin.cpp:1302
+msgid "Adjust View Properties..."
+msgstr "Параметры просмотра..."
+
+#: dolphin.cpp:1313
+msgid "Open Terminal"
+msgstr "Открыть терминал"
+
+#: dolphin.cpp:1318
+msgid "Find File..."
+msgstr "Найти файл..."
+
+#: dolphin.cpp:1323
+msgid "Show Filter Bar"
+msgstr "Показать панель фильтрации"
+
+#: dolphin.cpp:1327
+msgid "Compare Files"
+msgstr "Сравнить файлы"
+
+#: dolphin.cpp:1554
+msgid "Updating view properties..."
+msgstr "Обновление параметров просмотра..."
+
+#. i18n: file ./dolphinui.rc line 6
+#: dolphincontextmenu.cpp:121 rc.cpp:3
+#, no-c-format
+msgid "Create New"
+msgstr "Создать"
+
+#. i18n: file ./dolphinui.rc line 24
+#: dolphincontextmenu.cpp:139 rc.cpp:6
+#, no-c-format
+msgid "View Mode"
+msgstr "Режим просмотра"
+
+#: dolphincontextmenu.cpp:142 dolphincontextmenu.cpp:211
+msgid "Bookmark this folder"
+msgstr "Добавить папку в закладки"
+
+#: dolphincontextmenu.cpp:145
+msgid "Properties..."
+msgstr "Параметры..."
+
+#: dolphincontextmenu.cpp:153 dolphincontextmenu.cpp:233
+msgid "Add folder as bookmark"
+msgstr "Добавить папку как закладку"
+
+#: dolphincontextmenu.cpp:310
+msgid "&Other..."
+msgstr "&Разное..."
+
+#: dolphincontextmenu.cpp:311
+msgid "Open With"
+msgstr "Открыть с помощью"
+
+#: dolphincontextmenu.cpp:317 dolphincontextmenu.cpp:324
+msgid "Open With..."
+msgstr "Открыть с помощью..."
+
+#: dolphincontextmenu.cpp:456
+msgid "Actions"
+msgstr "Действия"
+
+#: dolphinsettingsdialog.cpp:30
+msgid "Dolphin Preferences"
+msgstr "Настройки Dolphin"
+
+#: dolphinsettingsdialog.cpp:34
+msgid "General"
+msgstr "Основные"
+
+#: dolphinsettingsdialog.cpp:40
+msgid "View Modes"
+msgstr "Режимы просмотра"
+
+#: dolphinview.cpp:220
+msgid "The new item name is invalid."
+msgstr "Имя элемента не должно быть пустым."
+
+#: dolphinview.cpp:231
+msgid "Renaming items..."
+msgstr "Переименование элементов..."
+
+#: dolphinview.cpp:232
+msgid "Renaming finished."
+msgstr "Переименование завершено."
+
+#: dolphinview.cpp:251
+msgid "Renaming failed (item '%1' already exists)."
+msgstr "Переименование не удалось (файл %1 уже существует)."
+
+#: dolphinview.cpp:548
+msgid "File Already Exists"
+msgstr "Файл уже существует"
+
+#: dolphinview.cpp:578
+msgid "Renamed file '%1' to '%2'."
+msgstr "Файл '%1' переименован в '%2'."
+
+#: dolphinview.cpp:585
+msgid "Renaming of file '%1' to '%2' failed."
+msgstr "Файл '%1' не удалось переименовать в '%2'."
+
+#: dolphinview.cpp:909
+msgid "The location is empty."
+msgstr "Путь пуст"
+
+#: dolphinview.cpp:912
+msgid "The location '%1' is invalid."
+msgstr "Путь '%1' неверен."
+
+#: dolphinview.cpp:923 dolphinview.cpp:925
+msgid "Loading directory..."
+msgstr "Загрузка папки..."
+
+#: dolphinview.cpp:942
+msgid "1 Item"
+msgstr "1 элемент"
+
+#: dolphinview.cpp:945
+msgid "%1 Items"
+msgstr "%1 элементов"
+
+#: dolphinview.cpp:951
+msgid "1 Folder"
+msgstr "1 папка"
+
+#: dolphinview.cpp:954
+msgid "%1 Folders"
+msgstr "%1 папок"
+
+#: dolphinview.cpp:960
+msgid "1 File"
+msgstr "1 файл"
+
+#: dolphinview.cpp:963
+msgid "%1 Files"
+msgstr "%1 файлов"
+
+#: dolphinview.cpp:994
+msgid "1 Folder selected"
+msgstr "1 папка выбрана"
+
+#: dolphinview.cpp:997
+msgid "%1 Folders selected"
+msgstr "%1 папок выбрано"
+
+#: dolphinview.cpp:1006
+msgid "1 File selected (%1)"
+msgstr "1 файл выбран (%1)"
+
+#: dolphinview.cpp:1009
+msgid "%1 Files selected (%1)"
+msgstr "%1 файлов выбрано (%1)"
+
+#: editbookmarkdialog.cpp:72
+msgid "Icon:"
+msgstr "Значок:"
+
+#: editbookmarkdialog.cpp:80
+msgid "Name:"
+msgstr "Имя:"
+
+#: editbookmarkdialog.cpp:86 generalsettingspage.cpp:70
+msgid "Location:"
+msgstr "Путь:"
+
+#: filterbar.cpp:44
+msgid "Filter:"
+msgstr "Фильтр:"
+
+#: generalsettingspage.cpp:62
+msgid "Home URL"
+msgstr "Домашний путь"
+
+#: generalsettingspage.cpp:80
+msgid "Use current location"
+msgstr "Использовать текущий путь"
+
+#: generalsettingspage.cpp:83
+msgid "Use default location"
+msgstr "Использовать стандартный путь"
+
+#: generalsettingspage.cpp:88
+msgid "Default View Mode"
+msgstr "Стандартный режим просмотра"
+
+#: generalsettingspage.cpp:103
+msgid "Start with split view"
+msgstr "Запускать в режиме разделенного просмотра"
+
+#: generalsettingspage.cpp:107
+msgid "Start with editable navigation bar"
+msgstr "Стартовать с редактируемой строкой пути"
+
+#: iconsviewsettingspage.cpp:93
+msgid "Preview Size"
+msgstr "Размер предпросмотра"
+
+#: iconsviewsettingspage.cpp:127
+msgid "Number of lines:"
+msgstr "Количество линий:"
+
+#: iconsviewsettingspage.cpp:131
+msgid "Text width:"
+msgstr "Ширина текста:"
+
+#: iconsviewsettingspage.cpp:137
+msgid "Grid"
+msgstr "Сетка"
+
+#: iconsviewsettingspage.cpp:142
+msgid "Arrangement:"
+msgstr "Расположение:"
+
+#: iconsviewsettingspage.cpp:144
+msgid "Left to right"
+msgstr "Слева направо"
+
+#: iconsviewsettingspage.cpp:145
+msgid "Top to bottom"
+msgstr "Сверху вниз"
+
+#: iconsviewsettingspage.cpp:148
+msgid "Grid spacing:"
+msgstr "Шаг сетки"
+
+#: infosidebarpage.cpp:163
+msgid "%1 items selected"
+msgstr "%1 элементов выбрано"
+
+#: infosidebarpage.cpp:283 infosidebarpage.cpp:286
+msgid "Type:"
+msgstr "Тип:"
+
+#: infosidebarpage.cpp:283
+msgid "Directory"
+msgstr "Папка"
+
+#: infosidebarpage.cpp:289
+msgid "Size:"
+msgstr "Размер:"
+
+#: infosidebarpage.cpp:290
+msgid "Modified:"
+msgstr "Изменён:"
+
+#: itemeffectsmanager.cpp:185
+msgid "%1 (Folder)"
+msgstr "%1 (папка)"
+
+#: main.cpp:31
+msgid "Document to open"
+msgstr "Документ для открытия"
+
+#: main.cpp:38
+msgid "Dolphin"
+msgstr "Dolphin"
+
+#: main.cpp:40
+msgid "File Manager"
+msgstr "Файловый менеджер"
+
+#: main.cpp:45
+msgid "Maintainer and developer"
+msgstr "Создатель и разработчик"
+
+#: main.cpp:46 main.cpp:47
+msgid "Developer"
+msgstr "Разработчик"
+
+#: main.cpp:48 main.cpp:49
+msgid "Documentation"
+msgstr "Документация"
+
+#: main.cpp:50
+msgid "... for the great support and the amazing patches"
+msgstr "... за великолепную поддержку и изумительные исправления"
+
+#: main.cpp:51
+msgid "... for their patches"
+msgstr "... за их доработки"
+
+#: main.cpp:53
+msgid "... for their translations"
+msgstr "... за их переводы"
+
+#. i18n: file ./dolphinui.rc line 30
+#: rc.cpp:9
+#, no-c-format
+msgid "Sort"
+msgstr "Сортировать"
+
+#. i18n: file ./dolphinui.rc line 44
+#: rc.cpp:12
+#, no-c-format
+msgid "Navigation Bar"
+msgstr "Строка пути"
+
+#: renamedialog.cpp:30
+msgid "Rename Items"
+msgstr "Переименовать"
+
+#: renamedialog.cpp:39
+msgid "Rename the %1 selected items to:"
+msgstr "Переименовать %1 выделенных элементов в:"
+
+#: renamedialog.cpp:43
+msgid "New name #"
+msgstr "Новое имя #"
+
+#: renamedialog.cpp:68
+msgid "(# will be replaced by ascending numbers)"
+msgstr "(# будет заменен числами по возрастанию)"
+
+#: statusbarspaceinfo.cpp:92
+msgid "%1% of %2 used"
+msgstr "%1% из %2 использовано"
+
+#: statusbarspaceinfo.cpp:98
+msgid "Getting size..."
+msgstr "Получение размера..."
+
+#: undomanager.cpp:87 undomanager.cpp:135 undomanager.cpp:251
+msgid "Undo: %1"
+msgstr "Отменить: %1"
+
+#: undomanager.cpp:123
+msgid "Executing undo operation..."
+msgstr "Выполнение отмены..."
+
+#: undomanager.cpp:124
+msgid "Executed undo operation."
+msgstr "Отмена выполнена."
+
+#: undomanager.cpp:140 undomanager.cpp:247
+msgid "Redo: %1"
+msgstr "Повторить: %1"
+
+#: undomanager.cpp:236
+msgid "Executing redo operation..."
+msgstr "Выполнение повтора..."
+
+#: undomanager.cpp:237
+msgid "Executed redo operation."
+msgstr "Повтор выполнен."
+
+#: undomanager.cpp:347
+msgid "Link"
+msgstr "Ссылка"
+
+#: undomanager.cpp:350
+msgid "Create New Folder"
+msgstr "Создать папку"
+
+#: undomanager.cpp:351
+msgid "Create New File"
+msgstr "Создать файл"
+
+#: urlnavigator.cpp:367
+msgid "Browse (Ctrl+B, Escape)"
+msgstr "Обзор (Ctrl+B, Escape)"
+
+#: urlnavigator.cpp:375
+msgid "Edit location (Ctrl+L)"
+msgstr "Редактировать путь (Ctrl+L)"
+
+#: urlnavigator.cpp:428
+msgid "Custom Path"
+msgstr "Псевдопуть"
+
+#: viewpropertiesdialog.cpp:41
+msgid "View Properties"
+msgstr "Просмотреть параметры"
+
+#: viewpropertiesdialog.cpp:62
+msgid "View mode:"
+msgstr "Режим просмотра:"
+
+#: viewpropertiesdialog.cpp:70
+msgid "Sorting:"
+msgstr "Сортировка:"
+
+#: viewpropertiesdialog.cpp:84
+msgid "Sort order:"
+msgstr "Порядок сортировки:"
+
+#: viewpropertiesdialog.cpp:86
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: viewpropertiesdialog.cpp:91
+msgid "Show hidden files"
+msgstr "Показывать скрытые файлы"
+
+#: viewpropertiesdialog.cpp:97
+msgid "Apply view properties to:"
+msgstr "Применить параметры просмотра к:"
+
+#: viewpropertiesdialog.cpp:102
+msgid "Current folder"
+msgstr "Текущая папка"
+
+#: viewpropertiesdialog.cpp:105
+msgid "Current folder including all sub folders"
+msgstr "Текущая папка с вложенными папками"
+
+#: viewpropertiesdialog.cpp:108
+msgid "All folders"
+msgstr "Все папки"
+
+#: viewpropertiesdialog.cpp:210
+msgid "The view properties of all folders will be replaced. Do you want to continue?"
+msgstr "Параметры просмотра для всех папок будут изменены. Продолжить?"
+
+#: viewpropertiesdialog.cpp:224
+msgid ""
+"The view properties of all sub folders will be replaced. Do you want to "
+"continue?"
+msgstr "Параметры просмотра для всех вложенных папок будут изменены. Продолжить?"
+

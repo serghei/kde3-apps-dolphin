@@ -1,0 +1,753 @@
+# translation of he.po to Hebrew
+# This file is put in the public domain.
+#
+# itai alter <itaialter@gmail.com>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: he\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-28 22:10+0100\n"
+"PO-Revision-Date: 2006-10-21 04:36+0200\n"
+"Last-Translator: itai alter <itaialter@gmail.com>\n"
+"Language-Team: Hebrew <he@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "איתי אלתר - itai alter"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "itaialter@gmail.com"
+
+#: bookmarkssettingspage.cpp:57
+msgid "Icon"
+msgstr "אייקון"
+
+#: bookmarkssettingspage.cpp:58
+msgid "Name"
+msgstr "שם"
+
+#: bookmarkssettingspage.cpp:59
+msgid "Location"
+msgstr "מיקום"
+
+#: bookmarkssettingspage.cpp:76
+msgid "Add..."
+msgstr "הוסף..."
+
+#: bookmarkssettingspage.cpp:81 bookmarkssidebarpage.cpp:114
+msgid "Edit..."
+msgstr "ערוך..."
+
+#: bookmarkssettingspage.cpp:91
+msgid "Move Up"
+msgstr "הזז מעלה"
+
+#: bookmarkssettingspage.cpp:96
+msgid "Move Down"
+msgstr "הזז מטה"
+
+#: bookmarkssettingspage.cpp:196 bookmarkssidebarpage.cpp:170
+msgid "Add Bookmark"
+msgstr "הוסף סימנייה"
+
+#: bookmarkssettingspage.cpp:197
+msgid "New bookmark"
+msgstr "סימנייה חדשה"
+
+#: bookmarkssettingspage.cpp:224 bookmarkssidebarpage.cpp:149
+msgid "Edit Bookmark"
+msgstr "ערוך סימנייה"
+
+#: bookmarkssidebarpage.cpp:110
+#, fuzzy
+msgid "Add Bookmark..."
+msgstr "הוסף סימנייה"
+
+#: bookmarkssidebarpage.cpp:113
+#, fuzzy
+msgid "Insert Bookmark..."
+msgstr "ערוך סימנייה"
+
+#: bookmarkssidebarpage.cpp:125
+#, fuzzy
+msgid "Insert Bookmark"
+msgstr "ערוך סימנייה"
+
+#: detailsviewsettingspage.cpp:60
+msgid "Columns"
+msgstr "עמודות"
+
+#: detailsviewsettingspage.cpp:65
+msgid "Date"
+msgstr "תאריך"
+
+#: detailsviewsettingspage.cpp:68
+msgid "Permissions"
+msgstr "הרשאות"
+
+#: detailsviewsettingspage.cpp:71
+msgid "Owner"
+msgstr "בעלים"
+
+#: detailsviewsettingspage.cpp:74
+msgid "Group"
+msgstr "קבוצה"
+
+#: detailsviewsettingspage.cpp:78 iconsviewsettingspage.cpp:69
+msgid "Icon Size"
+msgstr "גודל אייקון"
+
+#: detailsviewsettingspage.cpp:81 iconsviewsettingspage.cpp:77
+#: iconsviewsettingspage.cpp:99 iconsviewsettingspage.cpp:133
+#: iconsviewsettingspage.cpp:150
+msgid "Small"
+msgstr "קטן"
+
+#: detailsviewsettingspage.cpp:82 iconsviewsettingspage.cpp:134
+#: iconsviewsettingspage.cpp:151
+msgid "Medium"
+msgstr "בינוני"
+
+#: detailsviewsettingspage.cpp:83 iconsviewsettingspage.cpp:83
+#: iconsviewsettingspage.cpp:105 iconsviewsettingspage.cpp:135
+#: iconsviewsettingspage.cpp:152
+msgid "Large"
+msgstr "גדול"
+
+#: detailsviewsettingspage.cpp:105 iconsviewsettingspage.cpp:115
+msgid "Text"
+msgstr "טקסט"
+
+#: detailsviewsettingspage.cpp:109 iconsviewsettingspage.cpp:119
+msgid "Font family:"
+msgstr "משפחת גופן"
+
+#: detailsviewsettingspage.cpp:113 iconsviewsettingspage.cpp:123
+msgid "Font size:"
+msgstr "גודל גופן"
+
+#: dolphin.cpp:127
+msgid "&Move Here"
+msgstr "&הזז לכאן "
+
+#: dolphin.cpp:128
+msgid "&Copy Here"
+msgstr "&העתק לכאן"
+
+#: dolphin.cpp:129
+msgid "&Link Here"
+msgstr "&צור קישור כאן"
+
+#: dolphin.cpp:132
+msgid "Escape"
+msgstr "Escape"
+
+#: dolphin.cpp:351 dolphin.cpp:353 dolphin.cpp:357
+msgid "New Folder"
+msgstr "תיקייה חדשה"
+
+#: dolphin.cpp:358
+msgid "Enter folder name:"
+msgstr "הכנס שם תיקייה: "
+
+#: dolphin.cpp:383
+msgid "Created folder %1."
+msgstr "נוצרה תיקייה %1"
+
+#: dolphin.cpp:393
+msgid "A folder named %1 already exists."
+msgstr "תיקייה בשם %1 כבר קיימת"
+
+#: dolphin.cpp:397
+msgid "Creating of folder %1 failed."
+msgstr "יצירת תיקייה %1 נכשלה"
+
+#: dolphin.cpp:434
+msgid "Could not create file."
+msgstr "נכשלה יצירת הקובץ"
+
+#: dolphin.cpp:478
+msgid "A file named %1 already exists."
+msgstr "קובץ בשם %1 כבר קיים"
+
+#: dolphin.cpp:488
+msgid "Created file %1."
+msgstr "נוצר קובץ %1 "
+
+#: dolphin.cpp:498
+msgid "Creating of file %1 failed."
+msgstr "יצירת קובץ %1 נכשלה"
+
+#: dolphin.cpp:527
+msgid "Do you really want to delete the %1 selected items?"
+msgstr "האם באמת ברצונך למחוק את %1 הפריטים המסומנים?"
+
+#: dolphin.cpp:531
+msgid "Do you really want to delete '%1'?"
+msgstr "האם באמת ברצונך למחוק את '%1'?"
+
+#: dolphin.cpp:582
+msgid "Delete operation completed."
+msgstr "פעולת המחיקה הושלמה"
+
+#: dolphin.cpp:700
+msgid "Paste 1 File"
+msgstr "העתק קובץ אחד"
+
+#: dolphin.cpp:703
+msgid "Paste %1 Files"
+msgstr "העתק %1 קבצים"
+
+#: dolphin.cpp:1022
+msgid "Copy operation completed."
+msgstr "פעולת ההעתקה הושלמה"
+
+#: dolphin.cpp:1026
+msgid "Move operation completed."
+msgstr "פעולת ההעברה הושלמה"
+
+#: dolphin.cpp:1030
+msgid "Move to trash operation completed."
+msgstr "ההעברה לפח האשפה הושלמה"
+
+#: dolphin.cpp:1106
+msgid "Home"
+msgstr "בית"
+
+#: dolphin.cpp:1107
+msgid "Storage Media"
+msgstr ""
+
+#: dolphin.cpp:1108
+#, fuzzy
+msgid "Network"
+msgstr "סימנייה חדשה"
+
+#: dolphin.cpp:1109
+msgid "Root"
+msgstr ""
+
+#: dolphin.cpp:1110
+msgid "Trash"
+msgstr ""
+
+#: dolphin.cpp:1171
+msgid "Folder..."
+msgstr "תיקייה..."
+
+#: dolphin.cpp:1176 renamedialog.cpp:33 undomanager.cpp:348
+msgid "Rename"
+msgstr "שנה שם"
+
+#: dolphin.cpp:1180 undomanager.cpp:349
+msgid "Move to Trash"
+msgstr "העבר לפח האשפה"
+
+#: dolphin.cpp:1190
+msgid "Propert&ies"
+msgstr "מאפיינים"
+
+#: dolphin.cpp:1222
+msgid "Invert Selection"
+msgstr "הפוך בחירה"
+
+#: dolphin.cpp:1235 generalsettingspage.cpp:92 viewpropertiesdialog.cpp:64
+#: viewsettingspage.cpp:42
+msgid "Icons"
+msgstr "אייקונים"
+
+#: dolphin.cpp:1241 generalsettingspage.cpp:93 viewpropertiesdialog.cpp:65
+#: viewsettingspage.cpp:46
+msgid "Details"
+msgstr "פרטים"
+
+#: dolphin.cpp:1247 generalsettingspage.cpp:94 viewpropertiesdialog.cpp:66
+#: viewsettingspage.cpp:50
+msgid "Previews"
+msgstr "תצוגה מקדימה"
+
+#: dolphin.cpp:1253
+msgid "By Name"
+msgstr "לפי שם"
+
+#: dolphin.cpp:1258
+msgid "By Size"
+msgstr "לפי גודל"
+
+#: dolphin.cpp:1263
+msgid "By Date"
+msgstr "לפי תאריך"
+
+#: dolphin.cpp:1268 viewpropertiesdialog.cpp:87
+msgid "Descending"
+msgstr "יורד"
+
+#: dolphin.cpp:1271
+msgid "Show Hidden Files"
+msgstr "הראה קבצים חבויים"
+
+#: dolphin.cpp:1275
+msgid "Split View"
+msgstr "מראה מפוצל"
+
+#: dolphin.cpp:1290
+msgid "Edit Location"
+msgstr "ערוך מיקום"
+
+#: dolphin.cpp:1294
+msgid "Browse"
+msgstr "עיין"
+
+#: dolphin.cpp:1298
+msgid "Sidebar"
+msgstr ""
+
+#: dolphin.cpp:1302
+msgid "Adjust View Properties..."
+msgstr "התאם מאפייני מראה"
+
+#: dolphin.cpp:1313
+msgid "Open Terminal"
+msgstr "פתח טרמינל"
+
+#: dolphin.cpp:1318
+msgid "Find File..."
+msgstr "מצא קובץ..."
+
+#: dolphin.cpp:1323
+msgid "Show Filter Bar"
+msgstr ""
+
+#: dolphin.cpp:1327
+msgid "Compare Files"
+msgstr "השווה בין קבצים"
+
+#: dolphin.cpp:1554
+msgid "Updating view properties..."
+msgstr "מעדכן מאפייני מראה"
+
+#. i18n: file ./dolphinui.rc line 6
+#: dolphincontextmenu.cpp:121 rc.cpp:3
+#, no-c-format
+msgid "Create New"
+msgstr "צור חדש"
+
+#. i18n: file ./dolphinui.rc line 24
+#: dolphincontextmenu.cpp:139 rc.cpp:6
+#, no-c-format
+msgid "View Mode"
+msgstr "מצב מראה"
+
+#: dolphincontextmenu.cpp:142 dolphincontextmenu.cpp:211
+msgid "Bookmark this folder"
+msgstr "סמן את התיקייה הנוכחית"
+
+#: dolphincontextmenu.cpp:145
+msgid "Properties..."
+msgstr "מאפיינים..."
+
+#: dolphincontextmenu.cpp:153 dolphincontextmenu.cpp:233
+msgid "Add folder as bookmark"
+msgstr "הוסף תיקייה כסימנייה"
+
+#: dolphincontextmenu.cpp:310
+msgid "&Other..."
+msgstr "&אחר..."
+
+#: dolphincontextmenu.cpp:311
+msgid "Open With"
+msgstr "פתח באמצעות..."
+
+#: dolphincontextmenu.cpp:317 dolphincontextmenu.cpp:324
+msgid "Open With..."
+msgstr "פתח באמצעות..."
+
+#: dolphincontextmenu.cpp:456
+msgid "Actions"
+msgstr "פעולות"
+
+#: dolphinsettingsdialog.cpp:30
+msgid "Dolphin Preferences"
+msgstr "הגדרות דולפין"
+
+#: dolphinsettingsdialog.cpp:34
+msgid "General"
+msgstr "כללי"
+
+#: dolphinsettingsdialog.cpp:40
+msgid "View Modes"
+msgstr "מצבי מראה"
+
+#: dolphinview.cpp:220
+#, fuzzy
+msgid "The new item name is invalid."
+msgstr "המיקום '%1' אינו זמין"
+
+#: dolphinview.cpp:231
+msgid "Renaming items..."
+msgstr ""
+
+#: dolphinview.cpp:232
+msgid "Renaming finished."
+msgstr ""
+
+#: dolphinview.cpp:251
+#, fuzzy
+msgid "Renaming failed (item '%1' already exists)."
+msgstr "קובץ בשם %1 כבר קיים"
+
+#: dolphinview.cpp:548
+msgid "File Already Exists"
+msgstr "הקובץ כבר קיים"
+
+#: dolphinview.cpp:578
+msgid "Renamed file '%1' to '%2'."
+msgstr "שם קובץ שונה מ-'%1' ל-%2'"
+
+#: dolphinview.cpp:585
+msgid "Renaming of file '%1' to '%2' failed."
+msgstr "שינוי שם הקובץ מ-'%1' ל-'%2' נכשל"
+
+#: dolphinview.cpp:909
+msgid "The location is empty."
+msgstr "המיקום ריק"
+
+#: dolphinview.cpp:912
+msgid "The location '%1' is invalid."
+msgstr "המיקום '%1' אינו זמין"
+
+#: dolphinview.cpp:923 dolphinview.cpp:925
+msgid "Loading directory..."
+msgstr "טוען ספרייה..."
+
+#: dolphinview.cpp:942
+msgid "1 Item"
+msgstr "פריט אחד"
+
+#: dolphinview.cpp:945
+msgid "%1 Items"
+msgstr "%1 פריטים"
+
+#: dolphinview.cpp:951
+msgid "1 Folder"
+msgstr "תיקייה אחת"
+
+#: dolphinview.cpp:954
+msgid "%1 Folders"
+msgstr "%1 תיקיות"
+
+#: dolphinview.cpp:960
+msgid "1 File"
+msgstr "קובץ אחד"
+
+#: dolphinview.cpp:963
+msgid "%1 Files"
+msgstr "%1 קבצים"
+
+#: dolphinview.cpp:994
+#, fuzzy
+msgid "1 Folder selected"
+msgstr "%1 תיקיות"
+
+#: dolphinview.cpp:997
+#, fuzzy
+msgid "%1 Folders selected"
+msgstr "%1 תיקיות"
+
+#: dolphinview.cpp:1006
+msgid "1 File selected (%1)"
+msgstr ""
+
+#: dolphinview.cpp:1009
+msgid "%1 Files selected (%1)"
+msgstr ""
+
+#: editbookmarkdialog.cpp:72
+msgid "Icon:"
+msgstr "אייקון:"
+
+#: editbookmarkdialog.cpp:80
+msgid "Name:"
+msgstr "שם:"
+
+#: editbookmarkdialog.cpp:86 generalsettingspage.cpp:70
+msgid "Location:"
+msgstr "מיקום:"
+
+#: filterbar.cpp:44
+#, fuzzy
+msgid "Filter:"
+msgstr "קובץ אחד"
+
+#: generalsettingspage.cpp:62
+#, fuzzy
+msgid "Home URL"
+msgstr "בית"
+
+#: generalsettingspage.cpp:80
+msgid "Use current location"
+msgstr "השתמש במיקום הנוכחי"
+
+#: generalsettingspage.cpp:83
+msgid "Use default location"
+msgstr "השתמש במיקום ברירת המחדל"
+
+#: generalsettingspage.cpp:88
+msgid "Default View Mode"
+msgstr "מצב מראה ברירת מחדל"
+
+#: generalsettingspage.cpp:103
+#, fuzzy
+msgid "Start with split view"
+msgstr "מראה מפוצל"
+
+#: generalsettingspage.cpp:107
+msgid "Start with editable navigation bar"
+msgstr ""
+
+#: iconsviewsettingspage.cpp:93
+msgid "Preview Size"
+msgstr "גודל תצוגה מקדימה"
+
+#: iconsviewsettingspage.cpp:127
+msgid "Number of lines:"
+msgstr "מספר שורות:"
+
+#: iconsviewsettingspage.cpp:131
+msgid "Text width:"
+msgstr "רוחב טקסט:"
+
+#: iconsviewsettingspage.cpp:137
+msgid "Grid"
+msgstr "רשת (גריד)"
+
+#: iconsviewsettingspage.cpp:142
+msgid "Arrangement:"
+msgstr "סידור"
+
+#: iconsviewsettingspage.cpp:144
+msgid "Left to right"
+msgstr "משמאל לימין"
+
+#: iconsviewsettingspage.cpp:145
+msgid "Top to bottom"
+msgstr "מלמעלה למטה"
+
+#: iconsviewsettingspage.cpp:148
+msgid "Grid spacing:"
+msgstr "ריווח רשת"
+
+#: infosidebarpage.cpp:163
+msgid "%1 items selected"
+msgstr ""
+
+#: infosidebarpage.cpp:283 infosidebarpage.cpp:286
+msgid "Type:"
+msgstr ""
+
+#: infosidebarpage.cpp:283
+msgid "Directory"
+msgstr ""
+
+#: infosidebarpage.cpp:289
+#, fuzzy
+msgid "Size:"
+msgstr "גודל"
+
+#: infosidebarpage.cpp:290
+msgid "Modified:"
+msgstr ""
+
+#: itemeffectsmanager.cpp:185
+msgid "%1 (Folder)"
+msgstr "%1 (תיקייה)"
+
+#: main.cpp:31
+msgid "Document to open"
+msgstr "מסמך לפתיחה"
+
+#: main.cpp:38
+msgid "Dolphin"
+msgstr "דולפין"
+
+#: main.cpp:40
+msgid "File Manager"
+msgstr "מנהל קבצים"
+
+#: main.cpp:45
+msgid "Maintainer and developer"
+msgstr ""
+
+#: main.cpp:46 main.cpp:47
+msgid "Developer"
+msgstr ""
+
+#: main.cpp:48 main.cpp:49
+#, fuzzy
+msgid "Documentation"
+msgstr "מסמך לפתיחה"
+
+#: main.cpp:50
+msgid "... for the great support and the amazing patches"
+msgstr ""
+
+#: main.cpp:51
+msgid "... for their patches"
+msgstr ""
+
+#: main.cpp:53
+msgid "... for their translations"
+msgstr ""
+
+#. i18n: file ./dolphinui.rc line 30
+#: rc.cpp:9
+#, no-c-format
+msgid "Sort"
+msgstr "מיון"
+
+#. i18n: file ./dolphinui.rc line 44
+#: rc.cpp:12
+#, no-c-format
+msgid "Navigation Bar"
+msgstr "סרגל ניווט"
+
+#: renamedialog.cpp:30
+#, fuzzy
+msgid "Rename Items"
+msgstr "שנה שם"
+
+#: renamedialog.cpp:39
+#, fuzzy
+msgid "Rename the %1 selected items to:"
+msgstr "האם באמת ברצונך למחוק את %1 הפריטים המסומנים?"
+
+#: renamedialog.cpp:43
+#, fuzzy
+msgid "New name #"
+msgstr "שנה שם"
+
+#: renamedialog.cpp:68
+msgid "(# will be replaced by ascending numbers)"
+msgstr ""
+
+#: statusbarspaceinfo.cpp:92
+msgid "%1% of %2 used"
+msgstr ""
+
+#: statusbarspaceinfo.cpp:98
+msgid "Getting size..."
+msgstr ""
+
+#: undomanager.cpp:87 undomanager.cpp:135 undomanager.cpp:251
+msgid "Undo: %1"
+msgstr "בטל: %1"
+
+#: undomanager.cpp:123
+msgid "Executing undo operation..."
+msgstr "מבצע פעולת ביטול..."
+
+#: undomanager.cpp:124
+msgid "Executed undo operation."
+msgstr "בוצעה פעולת ביטול"
+
+#: undomanager.cpp:140 undomanager.cpp:247
+msgid "Redo: %1"
+msgstr "חזור על: %1"
+
+#: undomanager.cpp:236
+msgid "Executing redo operation..."
+msgstr "מבצע פעולת חזרה על"
+
+#: undomanager.cpp:237
+msgid "Executed redo operation."
+msgstr "בוצעה פעולת חזרה על"
+
+#: undomanager.cpp:347
+msgid "Link"
+msgstr "קישור"
+
+#: undomanager.cpp:350
+msgid "Create New Folder"
+msgstr "צור תיקייה חדשה"
+
+#: undomanager.cpp:351
+msgid "Create New File"
+msgstr "צור קובץ חדש"
+
+#: urlnavigator.cpp:367
+msgid "Browse (Ctrl+B, Escape)"
+msgstr "עיין (Ctrl+B, Escape)"
+
+#: urlnavigator.cpp:375
+msgid "Edit location (Ctrl+L)"
+msgstr "ערוך מיקום (Ctrl+L)"
+
+#: urlnavigator.cpp:428
+msgid "Custom Path"
+msgstr ""
+
+#: viewpropertiesdialog.cpp:41
+msgid "View Properties"
+msgstr "הראה מאפיינים"
+
+#: viewpropertiesdialog.cpp:62
+msgid "View mode:"
+msgstr "מצב מראה:"
+
+#: viewpropertiesdialog.cpp:70
+msgid "Sorting:"
+msgstr "מיון:"
+
+#: viewpropertiesdialog.cpp:84
+msgid "Sort order:"
+msgstr "סדר מיון"
+
+#: viewpropertiesdialog.cpp:86
+msgid "Ascending"
+msgstr "עולה"
+
+#: viewpropertiesdialog.cpp:91
+msgid "Show hidden files"
+msgstr "הראה קבצים חבויים"
+
+#: viewpropertiesdialog.cpp:97
+msgid "Apply view properties to:"
+msgstr "החל מאפייני מראה ל:"
+
+#: viewpropertiesdialog.cpp:102
+msgid "Current folder"
+msgstr "תיקייה נוכחית"
+
+#: viewpropertiesdialog.cpp:105
+msgid "Current folder including all sub folders"
+msgstr "תיקייה נוכחית וכל תת-התיקיות"
+
+#: viewpropertiesdialog.cpp:108
+msgid "All folders"
+msgstr "כל התיקיות"
+
+#: viewpropertiesdialog.cpp:210
+msgid ""
+"The view properties of all folders will be replaced. Do you want to continue?"
+msgstr "מאפייני המראה של כל התיקיות יוחלפו. האם להמשיך?"
+
+#: viewpropertiesdialog.cpp:224
+msgid ""
+"The view properties of all sub folders will be replaced. Do you want to "
+"continue?"
+msgstr "מאפייני המראה של כל תת-התיקיות יוחלפו. האם להמשיך?"
+
+#~ msgid "Remove..."
+#~ msgstr "הסר..."
+
+#~ msgid "Sort column:"
+#~ msgstr "מיין עמודה"

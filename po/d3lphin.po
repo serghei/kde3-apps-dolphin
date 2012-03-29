@@ -1,0 +1,745 @@
+# translation of dolphin.po to
+# This file is put in the public domain.
+#
+# Peter Penz <peter.penz@gmx.at>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: dolphin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-11-28 22:10+0100\n"
+"PO-Revision-Date: 2006-03-04 12:13+0100\n"
+"Last-Translator: Peter Penz <peter.penz@gmx.at>\n"
+"Language-Team:  <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
+
+#: _translatorinfo.cpp:1
+#, fuzzy
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Peter Penz"
+
+#: _translatorinfo.cpp:3
+#, fuzzy
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "peter.penz@gmx.at"
+
+#: bookmarkssettingspage.cpp:57
+msgid "Icon"
+msgstr ""
+
+#: bookmarkssettingspage.cpp:58
+msgid "Name"
+msgstr ""
+
+#: bookmarkssettingspage.cpp:59
+msgid "Location"
+msgstr ""
+
+#: bookmarkssettingspage.cpp:76
+msgid "Add..."
+msgstr ""
+
+#: bookmarkssettingspage.cpp:81 bookmarkssidebarpage.cpp:114
+msgid "Edit..."
+msgstr ""
+
+#: bookmarkssettingspage.cpp:91
+msgid "Move Up"
+msgstr ""
+
+#: bookmarkssettingspage.cpp:96
+msgid "Move Down"
+msgstr ""
+
+#: bookmarkssettingspage.cpp:196 bookmarkssidebarpage.cpp:170
+msgid "Add Bookmark"
+msgstr ""
+
+#: bookmarkssettingspage.cpp:197
+msgid "New bookmark"
+msgstr ""
+
+#: bookmarkssettingspage.cpp:224 bookmarkssidebarpage.cpp:149
+msgid "Edit Bookmark"
+msgstr ""
+
+#: bookmarkssidebarpage.cpp:110
+msgid "Add Bookmark..."
+msgstr ""
+
+#: bookmarkssidebarpage.cpp:113
+msgid "Insert Bookmark..."
+msgstr ""
+
+#: bookmarkssidebarpage.cpp:125
+msgid "Insert Bookmark"
+msgstr ""
+
+#: detailsviewsettingspage.cpp:60
+msgid "Columns"
+msgstr "Spalten "
+
+#: detailsviewsettingspage.cpp:65
+msgid "Date"
+msgstr "Datum "
+
+#: detailsviewsettingspage.cpp:68
+msgid "Permissions"
+msgstr "Rechte "
+
+#: detailsviewsettingspage.cpp:71
+msgid "Owner"
+msgstr "Eigentümer "
+
+#: detailsviewsettingspage.cpp:74
+msgid "Group"
+msgstr "Gruppe"
+
+#: detailsviewsettingspage.cpp:78 iconsviewsettingspage.cpp:69
+msgid "Icon Size"
+msgstr ""
+
+#: detailsviewsettingspage.cpp:81 iconsviewsettingspage.cpp:77
+#: iconsviewsettingspage.cpp:99 iconsviewsettingspage.cpp:133
+#: iconsviewsettingspage.cpp:150
+msgid "Small"
+msgstr ""
+
+#: detailsviewsettingspage.cpp:82 iconsviewsettingspage.cpp:134
+#: iconsviewsettingspage.cpp:151
+msgid "Medium"
+msgstr ""
+
+#: detailsviewsettingspage.cpp:83 iconsviewsettingspage.cpp:83
+#: iconsviewsettingspage.cpp:105 iconsviewsettingspage.cpp:135
+#: iconsviewsettingspage.cpp:152
+msgid "Large"
+msgstr ""
+
+#: detailsviewsettingspage.cpp:105 iconsviewsettingspage.cpp:115
+msgid "Text"
+msgstr ""
+
+#: detailsviewsettingspage.cpp:109 iconsviewsettingspage.cpp:119
+msgid "Font family:"
+msgstr ""
+
+#: detailsviewsettingspage.cpp:113 iconsviewsettingspage.cpp:123
+msgid "Font size:"
+msgstr ""
+
+#: dolphin.cpp:127
+msgid "&Move Here"
+msgstr ""
+
+#: dolphin.cpp:128
+msgid "&Copy Here"
+msgstr ""
+
+#: dolphin.cpp:129
+msgid "&Link Here"
+msgstr ""
+
+#: dolphin.cpp:132
+msgid "Escape"
+msgstr ""
+
+#: dolphin.cpp:351 dolphin.cpp:353 dolphin.cpp:357
+msgid "New Folder"
+msgstr ""
+
+#: dolphin.cpp:358
+msgid "Enter folder name:"
+msgstr ""
+
+#: dolphin.cpp:383
+msgid "Created folder %1."
+msgstr ""
+
+#: dolphin.cpp:393
+msgid "A folder named %1 already exists."
+msgstr ""
+
+#: dolphin.cpp:397
+msgid "Creating of folder %1 failed."
+msgstr ""
+
+#: dolphin.cpp:434
+msgid "Could not create file."
+msgstr ""
+
+#: dolphin.cpp:478
+msgid "A file named %1 already exists."
+msgstr ""
+
+#: dolphin.cpp:488
+msgid "Created file %1."
+msgstr ""
+
+#: dolphin.cpp:498
+msgid "Creating of file %1 failed."
+msgstr ""
+
+#: dolphin.cpp:527
+msgid "Do you really want to delete the %1 selected items?"
+msgstr ""
+
+#: dolphin.cpp:531
+msgid "Do you really want to delete '%1'?"
+msgstr ""
+
+#: dolphin.cpp:582
+msgid "Delete operation completed."
+msgstr ""
+
+#: dolphin.cpp:700
+msgid "Paste 1 File"
+msgstr ""
+
+#: dolphin.cpp:703
+msgid "Paste %1 Files"
+msgstr ""
+
+#: dolphin.cpp:1022
+msgid "Copy operation completed."
+msgstr ""
+
+#: dolphin.cpp:1026
+msgid "Move operation completed."
+msgstr ""
+
+#: dolphin.cpp:1030
+msgid "Move to trash operation completed."
+msgstr ""
+
+#: dolphin.cpp:1106
+msgid "Home"
+msgstr ""
+
+#: dolphin.cpp:1107
+msgid "Storage Media"
+msgstr ""
+
+#: dolphin.cpp:1108
+msgid "Network"
+msgstr ""
+
+#: dolphin.cpp:1109
+msgid "Root"
+msgstr ""
+
+#: dolphin.cpp:1110
+msgid "Trash"
+msgstr ""
+
+#: dolphin.cpp:1171
+msgid "Folder..."
+msgstr ""
+
+#: dolphin.cpp:1176 renamedialog.cpp:33 undomanager.cpp:348
+msgid "Rename"
+msgstr ""
+
+#: dolphin.cpp:1180 undomanager.cpp:349
+msgid "Move to Trash"
+msgstr ""
+
+#: dolphin.cpp:1190
+msgid "Propert&ies"
+msgstr ""
+
+#: dolphin.cpp:1222
+msgid "Invert Selection"
+msgstr ""
+
+#: dolphin.cpp:1235 generalsettingspage.cpp:92 viewpropertiesdialog.cpp:64
+#: viewsettingspage.cpp:42
+msgid "Icons"
+msgstr ""
+
+#: dolphin.cpp:1241 generalsettingspage.cpp:93 viewpropertiesdialog.cpp:65
+#: viewsettingspage.cpp:46
+msgid "Details"
+msgstr ""
+
+#: dolphin.cpp:1247 generalsettingspage.cpp:94 viewpropertiesdialog.cpp:66
+#: viewsettingspage.cpp:50
+msgid "Previews"
+msgstr ""
+
+#: dolphin.cpp:1253
+msgid "By Name"
+msgstr ""
+
+#: dolphin.cpp:1258
+#, fuzzy
+msgid "By Size"
+msgstr "Größe"
+
+#: dolphin.cpp:1263
+#, fuzzy
+msgid "By Date"
+msgstr "Datum "
+
+#: dolphin.cpp:1268 viewpropertiesdialog.cpp:87
+msgid "Descending"
+msgstr ""
+
+#: dolphin.cpp:1271
+msgid "Show Hidden Files"
+msgstr ""
+
+#: dolphin.cpp:1275
+msgid "Split View"
+msgstr ""
+
+#: dolphin.cpp:1290
+msgid "Edit Location"
+msgstr ""
+
+#: dolphin.cpp:1294
+msgid "Browse"
+msgstr ""
+
+#: dolphin.cpp:1298
+msgid "Sidebar"
+msgstr ""
+
+#: dolphin.cpp:1302
+msgid "Adjust View Properties..."
+msgstr ""
+
+#: dolphin.cpp:1313
+msgid "Open Terminal"
+msgstr ""
+
+#: dolphin.cpp:1318
+msgid "Find File..."
+msgstr ""
+
+#: dolphin.cpp:1323
+msgid "Show Filter Bar"
+msgstr ""
+
+#: dolphin.cpp:1327
+msgid "Compare Files"
+msgstr ""
+
+#: dolphin.cpp:1554
+msgid "Updating view properties..."
+msgstr ""
+
+#. i18n: file ./dolphinui.rc line 6
+#: dolphincontextmenu.cpp:121 rc.cpp:3
+#, no-c-format
+msgid "Create New"
+msgstr ""
+
+#. i18n: file ./dolphinui.rc line 24
+#: dolphincontextmenu.cpp:139 rc.cpp:6
+#, no-c-format
+msgid "View Mode"
+msgstr ""
+
+#: dolphincontextmenu.cpp:142 dolphincontextmenu.cpp:211
+msgid "Bookmark this folder"
+msgstr ""
+
+#: dolphincontextmenu.cpp:145
+msgid "Properties..."
+msgstr ""
+
+#: dolphincontextmenu.cpp:153 dolphincontextmenu.cpp:233
+msgid "Add folder as bookmark"
+msgstr ""
+
+#: dolphincontextmenu.cpp:310
+msgid "&Other..."
+msgstr ""
+
+#: dolphincontextmenu.cpp:311
+msgid "Open With"
+msgstr ""
+
+#: dolphincontextmenu.cpp:317 dolphincontextmenu.cpp:324
+msgid "Open With..."
+msgstr ""
+
+#: dolphincontextmenu.cpp:456
+msgid "Actions"
+msgstr ""
+
+#: dolphinsettingsdialog.cpp:30
+msgid "Dolphin Preferences"
+msgstr ""
+
+#: dolphinsettingsdialog.cpp:34
+msgid "General"
+msgstr ""
+
+#: dolphinsettingsdialog.cpp:40
+msgid "View Modes"
+msgstr ""
+
+#: dolphinview.cpp:220
+msgid "The new item name is invalid."
+msgstr ""
+
+#: dolphinview.cpp:231
+msgid "Renaming items..."
+msgstr ""
+
+#: dolphinview.cpp:232
+msgid "Renaming finished."
+msgstr ""
+
+#: dolphinview.cpp:251
+msgid "Renaming failed (item '%1' already exists)."
+msgstr ""
+
+#: dolphinview.cpp:548
+msgid "File Already Exists"
+msgstr ""
+
+#: dolphinview.cpp:578
+msgid "Renamed file '%1' to '%2'."
+msgstr ""
+
+#: dolphinview.cpp:585
+msgid "Renaming of file '%1' to '%2' failed."
+msgstr ""
+
+#: dolphinview.cpp:909
+msgid "The location is empty."
+msgstr ""
+
+#: dolphinview.cpp:912
+msgid "The location '%1' is invalid."
+msgstr ""
+
+#: dolphinview.cpp:923 dolphinview.cpp:925
+msgid "Loading directory..."
+msgstr ""
+
+#: dolphinview.cpp:942
+msgid "1 Item"
+msgstr ""
+
+#: dolphinview.cpp:945
+msgid "%1 Items"
+msgstr ""
+
+#: dolphinview.cpp:951
+msgid "1 Folder"
+msgstr ""
+
+#: dolphinview.cpp:954
+msgid "%1 Folders"
+msgstr ""
+
+#: dolphinview.cpp:960
+msgid "1 File"
+msgstr ""
+
+#: dolphinview.cpp:963
+msgid "%1 Files"
+msgstr ""
+
+#: dolphinview.cpp:994
+msgid "1 Folder selected"
+msgstr ""
+
+#: dolphinview.cpp:997
+msgid "%1 Folders selected"
+msgstr ""
+
+#: dolphinview.cpp:1006
+msgid "1 File selected (%1)"
+msgstr ""
+
+#: dolphinview.cpp:1009
+msgid "%1 Files selected (%1)"
+msgstr ""
+
+#: editbookmarkdialog.cpp:72
+msgid "Icon:"
+msgstr ""
+
+#: editbookmarkdialog.cpp:80
+msgid "Name:"
+msgstr ""
+
+#: editbookmarkdialog.cpp:86 generalsettingspage.cpp:70
+msgid "Location:"
+msgstr ""
+
+#: filterbar.cpp:44
+msgid "Filter:"
+msgstr ""
+
+#: generalsettingspage.cpp:62
+msgid "Home URL"
+msgstr ""
+
+#: generalsettingspage.cpp:80
+msgid "Use current location"
+msgstr ""
+
+#: generalsettingspage.cpp:83
+msgid "Use default location"
+msgstr ""
+
+#: generalsettingspage.cpp:88
+msgid "Default View Mode"
+msgstr ""
+
+#: generalsettingspage.cpp:103
+msgid "Start with split view"
+msgstr ""
+
+#: generalsettingspage.cpp:107
+msgid "Start with editable navigation bar"
+msgstr ""
+
+#: iconsviewsettingspage.cpp:93
+msgid "Preview Size"
+msgstr ""
+
+#: iconsviewsettingspage.cpp:127
+msgid "Number of lines:"
+msgstr ""
+
+#: iconsviewsettingspage.cpp:131
+msgid "Text width:"
+msgstr ""
+
+#: iconsviewsettingspage.cpp:137
+msgid "Grid"
+msgstr ""
+
+#: iconsviewsettingspage.cpp:142
+msgid "Arrangement:"
+msgstr ""
+
+#: iconsviewsettingspage.cpp:144
+msgid "Left to right"
+msgstr ""
+
+#: iconsviewsettingspage.cpp:145
+msgid "Top to bottom"
+msgstr ""
+
+#: iconsviewsettingspage.cpp:148
+msgid "Grid spacing:"
+msgstr ""
+
+#: infosidebarpage.cpp:163
+msgid "%1 items selected"
+msgstr ""
+
+#: infosidebarpage.cpp:283 infosidebarpage.cpp:286
+msgid "Type:"
+msgstr ""
+
+#: infosidebarpage.cpp:283
+msgid "Directory"
+msgstr ""
+
+#: infosidebarpage.cpp:289
+#, fuzzy
+msgid "Size:"
+msgstr "Größe"
+
+#: infosidebarpage.cpp:290
+msgid "Modified:"
+msgstr ""
+
+#: itemeffectsmanager.cpp:185
+msgid "%1 (Folder)"
+msgstr ""
+
+#: main.cpp:31
+msgid "Document to open"
+msgstr ""
+
+#: main.cpp:38
+msgid "Dolphin"
+msgstr ""
+
+#: main.cpp:40
+msgid "File Manager"
+msgstr ""
+
+#: main.cpp:45
+msgid "Maintainer and developer"
+msgstr ""
+
+#: main.cpp:46 main.cpp:47
+msgid "Developer"
+msgstr ""
+
+#: main.cpp:48 main.cpp:49
+msgid "Documentation"
+msgstr ""
+
+#: main.cpp:50
+msgid "... for the great support and the amazing patches"
+msgstr ""
+
+#: main.cpp:51
+msgid "... for their patches"
+msgstr ""
+
+#: main.cpp:53
+msgid "... for their translations"
+msgstr ""
+
+#. i18n: file ./dolphinui.rc line 30
+#: rc.cpp:9
+#, no-c-format
+msgid "Sort"
+msgstr ""
+
+#. i18n: file ./dolphinui.rc line 44
+#: rc.cpp:12
+#, no-c-format
+msgid "Navigation Bar"
+msgstr ""
+
+#: renamedialog.cpp:30
+msgid "Rename Items"
+msgstr ""
+
+#: renamedialog.cpp:39
+msgid "Rename the %1 selected items to:"
+msgstr ""
+
+#: renamedialog.cpp:43
+msgid "New name #"
+msgstr ""
+
+#: renamedialog.cpp:68
+msgid "(# will be replaced by ascending numbers)"
+msgstr ""
+
+#: statusbarspaceinfo.cpp:92
+msgid "%1% of %2 used"
+msgstr ""
+
+#: statusbarspaceinfo.cpp:98
+msgid "Getting size..."
+msgstr ""
+
+#: undomanager.cpp:87 undomanager.cpp:135 undomanager.cpp:251
+msgid "Undo: %1"
+msgstr ""
+
+#: undomanager.cpp:123
+msgid "Executing undo operation..."
+msgstr ""
+
+#: undomanager.cpp:124
+msgid "Executed undo operation."
+msgstr ""
+
+#: undomanager.cpp:140 undomanager.cpp:247
+msgid "Redo: %1"
+msgstr ""
+
+#: undomanager.cpp:236
+msgid "Executing redo operation..."
+msgstr ""
+
+#: undomanager.cpp:237
+msgid "Executed redo operation."
+msgstr ""
+
+#: undomanager.cpp:347
+msgid "Link"
+msgstr ""
+
+#: undomanager.cpp:350
+msgid "Create New Folder"
+msgstr ""
+
+#: undomanager.cpp:351
+msgid "Create New File"
+msgstr ""
+
+#: urlnavigator.cpp:367
+msgid "Browse (Ctrl+B, Escape)"
+msgstr ""
+
+#: urlnavigator.cpp:375
+msgid "Edit location (Ctrl+L)"
+msgstr ""
+
+#: urlnavigator.cpp:428
+msgid "Custom Path"
+msgstr ""
+
+#: viewpropertiesdialog.cpp:41
+msgid "View Properties"
+msgstr ""
+
+#: viewpropertiesdialog.cpp:62
+msgid "View mode:"
+msgstr ""
+
+#: viewpropertiesdialog.cpp:70
+msgid "Sorting:"
+msgstr ""
+
+#: viewpropertiesdialog.cpp:84
+msgid "Sort order:"
+msgstr ""
+
+#: viewpropertiesdialog.cpp:86
+msgid "Ascending"
+msgstr ""
+
+#: viewpropertiesdialog.cpp:91
+msgid "Show hidden files"
+msgstr ""
+
+#: viewpropertiesdialog.cpp:97
+msgid "Apply view properties to:"
+msgstr ""
+
+#: viewpropertiesdialog.cpp:102
+msgid "Current folder"
+msgstr ""
+
+#: viewpropertiesdialog.cpp:105
+msgid "Current folder including all sub folders"
+msgstr ""
+
+#: viewpropertiesdialog.cpp:108
+msgid "All folders"
+msgstr ""
+
+#: viewpropertiesdialog.cpp:210
+msgid ""
+"The view properties of all folders will be replaced. Do you want to continue?"
+msgstr ""
+
+#: viewpropertiesdialog.cpp:224
+msgid ""
+"The view properties of all sub folders will be replaced. Do you want to "
+"continue?"
+msgstr ""
+
+msgid "Left Sidebar"
+msgstr ""
+
+msgid "Right Sidebar"
+msgstr ""
+
+msgid "Save view properties for each folder"
+msgstr ""
